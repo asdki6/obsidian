@@ -1,50 +1,77 @@
 ---
 created: 2026-06-16
+updated: 2026-06-16
 source: "https://github.com/stars/asdki6/lists/learning"
 list_name: learning
 list_description: ""
-total_repos: 9
+total_repos: 11
 tags: [github/stars, learning]
 ---
 
-# 📚 GitHub 星标仓库 — Learning 列表
+# 📚 GitHub 星标仓库总览
 
-> 来源：[asdki6/learning](https://github.com/stars/asdki6/lists/learning) | 共 9 个仓库
+> 来源：[asdki6/learning](https://github.com/stars/asdki6/lists/learning) | 11 个星标仓库 | 1,947 行教学内容
 
-## 概览
+## 目录
 
-| 仓库 | 描述 | 语言 | ⭐ Stars | 主题标签 |
-|------|------|------|---------|---------|
-| [[stars/learning/project-based-learning\|project-based-learning]] | 项目驱动的编程教程集合 | - | 269,546 | #tutorial #python #project |
-| [[stars/learning/developer-roadmap\|developer-roadmap]] | 开发者成长路线图 | TypeScript | 357,360 | #computer-science #roadmap |
-| [[stars/learning/build-your-own-x\|build-your-own-x]] | 从零重建你喜爱的技术 | Markdown | 515,981 | #programming #tutorials #free |
-| [[stars/learning/freecodecamp\|freeCodeCamp]] | 开源编程课程平台 | TypeScript | 447,872 | #learn-to-code #education |
-| [[stars/learning/agency-agents\|agency-agents]] | AI Agent 代理工具集 | Shell | 113,491 | #ai #agent |
-| [[stars/learning/coding-interview-university\|coding-interview-university]] | 计算机科学学习计划 | - | 352,289 | #interview #algorithms #study-plan |
-| [[stars/learning/python-100-days\|Python-100-Days]] | Python 100天从新手到大师 | Jupyter Notebook | 183,392 | #python #tutorial |
-| [[stars/learning/hello-agents\|hello-agents]] | 从零开始的智能体教程 | Python | 59,437 | #agent #llm #rag #tutorial |
-| [[stars/learning/dive-into-llms\|dive-into-llms]] | 《动手学大模型》教程 | Jupyter Notebook | 40,921 | #llm #deep-learning |
+- [[#教学型仓库（含完整教学内容）|📖 教学型仓库（含完整教学内容）]]
+- [[#目录/工具型仓库|📋 目录/工具型仓库]]
+- [[#统计|📊 统计]]
 
-## 统计
+---
 
-- **总星数**: ⭐ 2,340,279
+## 📖 教学型仓库（含完整教学内容）
+
+这些仓库包含实际的教学内容，已在笔记中抓取了完整知识点：
+
+| 仓库 | 教学内容 | ⭐ Stars | 笔记大小 |
+|------|---------|---------|---------|
+| [[stars/learning/coding-interview-university\|🎯 coding-interview-university]] | 算法、数据结构、系统设计完整学习计划 | 352,289 | 344 行 |
+| [[stars/learning/python-100-days\|🐍 Python-100-Days]] | 100天 Python 从入门到大师（含代码示例） | 183,392 | 320 行 |
+| [[stars/learning/dive-into-llms\|🤖 dive-into-llms]] | 11 章大模型教程（微调/Prompt/Safety/RLHF） | 40,921 | 255 行 |
+| [[stars/learning/hello-agents\|🧠 hello-agents]] | 16 章智能体从零构建教程（含代码） | 59,437 | 250 行 |
+| [[stars/learning/agency-agents\|🏢 agency-agents]] | 18 类 100+ AI Agent 定义与工作流程 | 113,491 | 205 行 |
+| [[stars/learning/freecodecamp\|🎓 freeCodeCamp]] | 13 个认证、数千挑战、完整课程体系 | 447,872 | 153 行 |
+
+## 📋 目录/工具型仓库
+
+| 仓库 | 内容类型 | ⭐ Stars |
+|------|---------|---------|
+| [[stars/learning/build-your-own-x\|🔧 build-your-own-x]] | 从零实现技术的教程目录（50+ 主题） | 515,981 |
+| [[stars/learning/developer-roadmap\|🗺️ developer-roadmap]] | 开发者路线图与学习资源导航 | 357,360 |
+| [[stars/learning/project-based-learning\|📐 project-based-learning]] | 项目驱动的编程教程集合 | 269,546 |
+
+## 其他已星标仓库
+
+| 仓库 | ⭐ Stars |
+|------|---------|
+| [[stars/learning/public-apis\|🌐 public-apis]] | 441,840 |
+| [[stars/learning/prompt-optimizer\|⚡ prompt-optimizer]] | 1 |
+
+---
+
+## 📊 统计
+
+- **总星数**: ⭐ 2,782,120
+- **笔记总行数**: 1,947 行教学内容
 - **主要语言**: TypeScript, Python, Jupyter Notebook, Shell, Markdown
-- **分类**: 编程教程、AI/Agent、算法面试、全栈开发、大模型
 
-## 学习路线建议
+### 学习路线建议
 
 ```mermaid
 flowchart LR
-    A[编程基础] --> B[全栈开发]
-    A --> C[算法与面试]
-    B --> D[AI/Agent]
-    C --> D
-    D --> E[大模型实践]
+    A[Python基础] --> B[数据结构与算法]
+    A --> C[Web全栈开发]
+    B --> D[算法面试准备]
+    C --> E[AI/Agent开发]
+    D --> E
+    E --> F[大模型实践]
+    A --> G[前端/全栈]
+    G --> C
 ```
 
-## 相关链接
-
-- [[stars/learning/project-based-learning|project-based-learning]] — 动手实践 →
-- [[stars/learning/developer-roadmap|developer-roadmap]] — 路线图导航 →
-- [[stars/learning/build-your-own-x|build-your-own-x]] — 深入底层 →
-- [[stars/learning/freecodecamp|freeCodeCamp]] — 系统性学习 →
+1. 🐍 **Python 入门** → [[stars/learning/python-100-days|Python-100-Days]]
+2. 🎯 **算法基础** → [[stars/learning/coding-interview-university|coding-interview-university]]
+3. 🔧 **动手实践** → [[stars/learning/build-your-own-x|build-your-own-x]]
+4. 🗺️ **选择方向** → [[stars/learning/developer-roadmap|developer-roadmap]]
+5. 🧠 **AI时代** → [[stars/learning/hello-agents|hello-agents]] → [[stars/learning/dive-into-llms|dive-into-llms]]
