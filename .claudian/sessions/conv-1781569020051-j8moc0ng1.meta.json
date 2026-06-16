@@ -4,21 +4,23 @@
   "title": "你是哪个模型",
   "titleGenerationStatus": "failed",
   "createdAt": 1781569020062,
-  "updatedAt": 1781597820832,
-  "lastResponseAt": 1781597820832,
-  "sessionId": null,
+  "updatedAt": 1781605381663,
+  "lastResponseAt": 1781605381663,
+  "sessionId": "129b8e11-03fb-4822-a4e8-19994c9eb858",
   "providerState": {
-    "providerSessionId": "3833a0e3-31a6-4960-ad25-16187891e127"
+    "providerSessionId": "129b8e11-03fb-4822-a4e8-19994c9eb858",
+    "previousProviderSessionIds": [
+      "3833a0e3-31a6-4960-ad25-16187891e127"
+    ]
   },
   "currentNote": "CLAUDE.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 832,
+    "inputTokens": 75,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 142464,
+    "cacheReadInputTokens": 48896,
     "contextWindow": 200000,
-    "contextTokens": 143296,
-    "percentage": 72,
-    "contextWindowIsAuthoritative": false
+    "contextTokens": 48971,
+    "percentage": 24
   }
 }
