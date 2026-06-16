@@ -32,8 +32,8 @@
       "enableBangBash": false,
       "enableOpus1M": false,
       "enableSonnet1M": false,
-      "customModels": "",
-      "lastModel": "opus",
+      "customModels": "deep seekv4pro",
+      "lastModel": "deep seekv4pro",
       "environmentVariables": "",
       "environmentHash": ""
     },
