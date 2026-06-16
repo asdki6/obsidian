@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0ea1368bda41bd7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "笔记同步助手/2026-06-16/同步助手_2026-06-16.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "同步助手_2026-06-16"
-            }
-          },
-          {
             "id": "58bbe97a5e42edee",
             "type": "leaf",
             "state": {
@@ -190,8 +176,21 @@
       "bijitongbu:tongbuzhushou": false
     }
   },
-  "active": "0ea1368bda41bd7d",
+  "active": "58bbe97a5e42edee",
   "lastOpenFiles": [
+    "笔记同步助手/images/756176e6dc9576cb981471ce81e9a41d_MD5.jpg",
+    "笔记同步助手/images/1033ab4f4c697e033aaa91c2967e8478_MD5.jpg",
+    "笔记同步助手/images/0b69d738d9a579d10732c13a5ec990d7_MD5.jpg",
+    "笔记同步助手/images/73e1bdb754acc8999dc41ab360ca4897_MD5.jpg",
+    "笔记同步助手/images/68024fd082a926776015affd6ba81819_MD5.jpg",
+    "笔记同步助手/images/1c9a25f3486220a9f7dad3af566f0fd2_MD5.jpg",
+    "笔记同步助手/images/4e2e99aa00dff059c49b3d17bfaf716e_MD5.jpg",
+    "笔记同步助手/images/7cda27562bf0c758081300cdf53bd45f_MD5.jpg",
+    "笔记同步助手/images/ecd267be8362e79cda186531c811eca0_MD5.jpg",
+    "笔记同步助手/images",
+    "笔记同步助手/2026-06-16/Claude + Obsidian：打造个人第二大脑的完整指南.md",
+    "笔记同步助手/2026-06-16/2.87 复制打开抖音，看看【Sora的作品】价值888，Claude + Obsidian讲解... https---v.douyin.com-Pa6E1mquWB8- 07-26 -4pm ... 2.md",
+    "笔记同步助手/2026-06-16/2.87 复制打开抖音，看看【Sora的作品】价值888，Claude + Obsidian讲解... https---v.douyin.com-Pa6E1mquWB8- 07-26 -4pm ....md",
     "笔记同步助手/2026-06-16/同步助手_2026-06-16.md",
     "Obsidian Vault/欢迎.md",
     "笔记同步助手/2026-06-16",
