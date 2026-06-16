@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "7b1e0695e18a50ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "b084dce8f67ee9cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "42a8857798125952",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ac7d26696d419e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e542d3779c0d2a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5adbcbcf557ad441",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "0220ae3f06bb36ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e741ee156a8c1b15",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6cd0dda4af32a997",
+    "type": "split",
+    "children": [
+      {
+        "id": "7579d50edc3c3255",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cf9e37363b73e56",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "stars/learning/python-100-days.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "python-100-days 的反向链接列表"
+            }
+          },
+          {
+            "id": "7a7115d7b5896986",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "stars/learning/python-100-days.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "python-100-days 的出链列表"
+            }
+          },
+          {
+            "id": "15ca9e0c78fc7389",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "73193825cd913caa",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "284848c4273cb0b6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "stars/learning/python-100-days.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "python-100-days 的大纲"
+            }
+          },
+          {
+            "id": "0018858faaae8b86",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "42a8857798125952",
+  "lastOpenFiles": [
+    "stars/learning/python-100-days.md",
+    "stars/learning/public-apis.md",
+    "stars/learning/prompt-optimizer.md",
+    "stars/learning/index.md",
+    "stars/stars/learning/hello-agents.md",
+    "stars/learning/build-your-own-x.md",
+    "stars/learning/agency-agents.md",
+    "CLAUDE.md",
+    "stars/stars/learning",
+    "stars/stars",
+    "stars/learning/dive-into-llms.md",
+    "stars/learning/hello-agents.md",
+    "stars/learning/coding-interview-university.md",
+    "stars/learning/freecodecamp.md",
+    "stars/learning/developer-roadmap.md",
+    "stars/learning/project-based-learning.md",
+    "stars/learning",
+    "stars",
+    "测试.md",
+    "新建 文本文档.txt"
+  ]
+}
