@@ -1,10 +1,10 @@
 {
   "id": "conv-1781569020051-j8moc0ng1",
   "providerId": "claude",
-  "title": "为什么右上角一直显示no cmommits to push 和no changes to commi...",
-  "titleGenerationStatus": "pending",
+  "title": "Debug Git status display issue",
+  "titleGenerationStatus": "success",
   "createdAt": 1781569020062,
-  "updatedAt": 1781573390605,
+  "updatedAt": 1781573393460,
   "lastResponseAt": 1781573390605,
   "sessionId": "3833a0e3-31a6-4960-ad25-16187891e127",
   "providerState": {
