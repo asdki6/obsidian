@@ -1,7 +1,7 @@
 {
   "userName": "",
   "permissionMode": "yolo",
-  "model": "deepseek-v4-pro",
+  "model": "opus",
   "thinkingBudget": "off",
   "effortLevel": "high",
   "serviceTier": "default",
@@ -32,8 +32,8 @@
       "enableBangBash": false,
       "enableOpus1M": false,
       "enableSonnet1M": false,
-      "customModels": "",
-      "lastModel": "deepseek-v4-pro",
+      "customModels": "deepseek-v4-pro\ndeepseek-v4-flash",
+      "lastModel": "opus",
       "environmentVariables": "",
       "environmentHash": ""
     },
@@ -78,7 +78,7 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "deepseek-v4-pro"
+    "claude": "opus"
   },
   "savedProviderEffort": {
     "claude": "high"
@@ -88,7 +88,7 @@
   "savedProviderPermissionMode": {
     "claude": "yolo"
   },
-  "lastCustomModel": "",
+  "lastCustomModel": "deepseek-v4-pro",
   "maxTabs": 3,
   "tabBarPosition": "input",
   "enableAutoScroll": true,
