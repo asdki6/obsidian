@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "62f680b4776f3b34",
+        "id": "ee1d2bf5b89b75ec",
         "type": "tabs",
         "children": [
           {
-            "id": "70146be4074630f8",
+            "id": "d9458006847ae634",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "新标签页"
             }
           }
         ]
@@ -112,7 +108,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "未命名.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +126,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "未命名.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +139,6 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "未命名.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -153,9 +146,19 @@
           "icon": "lucide-list",
           "title": "大纲"
         }
+      },
+      {
+        "id": "7252c21ee7da0ae8",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,8 +173,12 @@
       "bijitongbu:tongbuzhushou": false
     }
   },
-  "active": "70146be4074630f8",
+  "active": "d9458006847ae634",
   "lastOpenFiles": [
-    "未命名.md"
+    "Obsidian Vault/未命名 1.md",
+    "未命名.canvas",
+    "未命名.md",
+    "1111.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
