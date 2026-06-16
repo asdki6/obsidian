@@ -174,16 +174,6 @@
               "icon": "bot",
               "title": "Claudian"
             }
-          },
-          {
-            "id": "6a8bb0b170d4f64a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
         "currentTab": 5
@@ -202,11 +192,10 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "realclaudian:Open Claudian": false,
-      "bijitongbu:tongbuzhushou": false
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "0018858faaae8b86",
+  "active": "42a8857798125952",
   "lastOpenFiles": [
     "stars/learning/python-100-days.md",
     "stars/learning/public-apis.md",

@@ -1,7 +1,7 @@
 {
   "userName": "",
   "permissionMode": "yolo",
-  "model": "deep seekv4pro",
+  "model": "haiku",
   "thinkingBudget": "off",
   "effortLevel": "high",
   "serviceTier": "default",
@@ -32,8 +32,8 @@
       "enableBangBash": false,
       "enableOpus1M": false,
       "enableSonnet1M": false,
-      "customModels": "deep seekv4pro",
-      "lastModel": "opus",
+      "customModels": "",
+      "lastModel": "haiku",
       "environmentVariables": "",
       "environmentHash": ""
     },
@@ -78,7 +78,7 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "deep seekv4pro"
+    "claude": "haiku"
   },
   "savedProviderEffort": {
     "claude": "high"
@@ -88,7 +88,7 @@
   "savedProviderPermissionMode": {
     "claude": "yolo"
   },
-  "lastCustomModel": "deep seekv4pro",
+  "lastCustomModel": "",
   "maxTabs": 3,
   "tabBarPosition": "input",
   "enableAutoScroll": true,
