@@ -32,7 +32,7 @@
       "enableBangBash": false,
       "enableOpus1M": false,
       "enableSonnet1M": false,
-      "customModels": "deepseek-v4-pro\ndeepseek-v4-flash",
+      "customModels": "",
       "lastModel": "opus",
       "environmentVariables": "",
       "environmentHash": ""
@@ -88,7 +88,7 @@
   "savedProviderPermissionMode": {
     "claude": "yolo"
   },
-  "lastCustomModel": "deepseek-v4-pro",
+  "lastCustomModel": "",
   "maxTabs": 3,
   "tabBarPosition": "input",
   "enableAutoScroll": true,
