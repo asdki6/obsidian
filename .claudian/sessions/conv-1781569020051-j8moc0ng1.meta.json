@@ -4,15 +4,15 @@
   "title": "你是哪个模型",
   "titleGenerationStatus": "failed",
   "createdAt": 1781569020062,
-  "updatedAt": 1781597473334,
-  "lastResponseAt": 1781597473334,
+  "updatedAt": 1781597820832,
+  "lastResponseAt": 1781597820832,
   "sessionId": null,
   "providerState": {
     "providerSessionId": "3833a0e3-31a6-4960-ad25-16187891e127"
   },
   "currentNote": "CLAUDE.md",
   "usage": {
-    "model": "deepseek-v4-pro",
+    "model": "opus",
     "inputTokens": 832,
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 142464,
