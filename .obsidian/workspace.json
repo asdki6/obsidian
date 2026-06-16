@@ -170,9 +170,19 @@
               "icon": "bot",
               "title": "Claudian"
             }
+          },
+          {
+            "id": "6a8bb0b170d4f64a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -188,7 +198,8 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "bijitongbu:tongbuzhushou": false
     }
   },
   "active": "42a8857798125952",
