@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "笔记同步助手/2026-06-16/同步助手_2026-06-16.md",
+                "file": "笔记同步助手/2026-06-16/Claude + Obsidian：打造个人第二大脑的完整指南.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "同步助手_2026-06-16"
+              "title": "Claude + Obsidian：打造个人第二大脑的完整指南"
             }
           }
         ]
@@ -163,6 +163,16 @@
           "icon": "git-pull-request",
           "title": "Source Control"
         }
+      },
+      {
+        "id": "b6f8614f2bf28955",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
       }
     ],
     "currentTab": 3
@@ -176,12 +186,12 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "bijitongbu:tongbuzhushou": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "2547eab09c7549d4",
   "lastOpenFiles": [
+    "笔记同步助手/2026-06-16/同步助手_2026-06-16.md",
     "模板.md",
     "笔记同步助手/images/d6a8538541184bc55670a9cdef3e1d28_MD5.png",
     "笔记同步助手/images/3f866a475e4217292b1a3b93f46792b2_MD5.jpg",
@@ -192,7 +202,6 @@
     "笔记同步助手/images/a363f4eee52cce122d8d1af6073bace1_MD5.png",
     "笔记同步助手/images",
     "未命名.base",
-    "笔记同步助手/2026-06-16/同步助手_2026-06-16.md",
     "笔记同步助手/2026-06-16/Claude + Obsidian：打造个人第二大脑的完整指南.md",
     "模板",
     "笔记同步助手/2026-06-16/GitHub - jackfrued-Python-100-Days- Python - 100天从新手到大师.md",
