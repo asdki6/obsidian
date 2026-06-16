@@ -11,14 +11,10 @@
             "id": "42a8857798125952",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "90 - 模板/项目模板.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "项目模板"
+              "title": "新标签页"
             }
           }
         ]
@@ -217,15 +213,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "42a8857798125952",
+  "active": "6a8bb0b170d4f64a",
   "lastOpenFiles": [
+    "90 - 模板/项目模板.md",
     "90 - 模板/日记模板.md",
     "90 - 模板/人物模板.md",
     "新仓库配置指南.md",
     "模板.md",
     "GitHub日常学习/obsidian/stars/learning/Python-100-Days/Day01-20/01.初识Python.md",
     "主页.md",
-    "90 - 模板/项目模板.md",
     "90 - 模板",
     "40 - 存档",
     "30 - 资源",
