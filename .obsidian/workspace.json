@@ -11,10 +11,14 @@
             "id": "42a8857798125952",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "GitHub/obsidian/测试.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "测试"
             }
           }
         ]
