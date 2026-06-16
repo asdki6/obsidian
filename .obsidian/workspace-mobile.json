@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8fe002ae571379a7",
+        "id": "10d065ba0255d5d2",
         "type": "tabs",
         "children": [
           {
-            "id": "58bbe97a5e42edee",
+            "id": "031c4b61908e0a6a",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -176,9 +176,11 @@
       "bijitongbu:tongbuzhushou": false
     }
   },
-  "active": "58bbe97a5e42edee",
+  "active": "031c4b61908e0a6a",
   "lastOpenFiles": [
+    "笔记同步助手/2026-06-16/GitHub - jackfrued-Python-100-Days- Python - 100天从新手到大师.md",
     "curriculum.md",
+    "笔记同步助手/images/0b69d738d9a579d10732c13a5ec990d7_MD5.jpg",
     "GitHub日常学习/obsidian/stars/learning/python-100-days.md",
     "笔记同步助手/2026-06-16/Claude + Obsidian：打造个人第二大脑的完整指南.md",
     "1",
@@ -192,7 +194,6 @@
     "笔记同步助手/images/e56c4b2fe3d15eaf1f84642bed49ed1e_MD5.jpg",
     "笔记同步助手/images/b7e663a355a23526f8e65c81b175d3fa_MD5.jpg",
     "笔记同步助手/images/54d1b0e43d6687a9d913e8d8d2cc9057_MD5.jpg",
-    "笔记同步助手/images/d0684e58b14f250a9faed20bd17209b2_MD5.jpg",
     "笔记同步助手/2026-06-16/2.87 复制打开抖音，看看【Sora的作品】价值888，Claude + Obsidian讲解... https---v.douyin.com-Pa6E1mquWB8- 07-26 -4pm ... 2.md",
     "笔记同步助手/2026-06-16/2.87 复制打开抖音，看看【Sora的作品】价值888，Claude + Obsidian讲解... https---v.douyin.com-Pa6E1mquWB8- 07-26 -4pm ....md",
     "笔记同步助手/images",
