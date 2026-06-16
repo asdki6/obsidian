@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "learning/build-your-own-x.md",
+                "file": "learning/python-100-days.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "build-your-own-x"
+              "title": "python-100-days"
             }
           }
         ]
@@ -185,6 +185,7 @@
   },
   "active": "cc923845cd9f9362",
   "lastOpenFiles": [
+    "learning/build-your-own-x.md",
     "stars/learning/hello-agents.md",
     "learning/agency-agents.md",
     "stars/learning",
