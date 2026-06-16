@@ -33,7 +33,7 @@
       "enableOpus1M": false,
       "enableSonnet1M": false,
       "customModels": "deep seekv4pro",
-      "lastModel": "deep seekv4pro",
+      "lastModel": "opus",
       "environmentVariables": "",
       "environmentHash": ""
     },
@@ -78,7 +78,7 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "opus"
+    "claude": "deep seekv4pro"
   },
   "savedProviderEffort": {
     "claude": "high"
@@ -88,7 +88,7 @@
   "savedProviderPermissionMode": {
     "claude": "yolo"
   },
-  "lastCustomModel": "",
+  "lastCustomModel": "deep seekv4pro",
   "maxTabs": 3,
   "tabBarPosition": "input",
   "enableAutoScroll": true,
