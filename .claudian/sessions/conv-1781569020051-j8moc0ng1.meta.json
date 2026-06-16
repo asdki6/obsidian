@@ -1,11 +1,11 @@
 {
   "id": "conv-1781569020051-j8moc0ng1",
   "providerId": "claude",
-  "title": "Debug Git status display issue",
+  "title": "Fetch starred GitHub repos into Obsidian",
   "titleGenerationStatus": "success",
   "createdAt": 1781569020062,
-  "updatedAt": 1781574553737,
-  "lastResponseAt": 1781573517216,
+  "updatedAt": 1781570704492,
+  "lastResponseAt": 1781570704492,
   "sessionId": "3833a0e3-31a6-4960-ad25-16187891e127",
   "providerState": {
     "providerSessionId": "3833a0e3-31a6-4960-ad25-16187891e127"
