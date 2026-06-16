@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "stars/learning/hello-agents.md",
+                "file": "learning/build-your-own-x.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hello-agents"
+              "title": "build-your-own-x"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "stars/learning/hello-agents.md",
+                "file": "learning/build-your-own-x.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "hello-agents 的反向链接列表"
+              "title": "build-your-own-x 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stars/learning/hello-agents.md",
+                "file": "learning/build-your-own-x.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "hello-agents 的出链列表"
+              "title": "build-your-own-x 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stars/learning/hello-agents.md",
+                "file": "learning/build-your-own-x.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "hello-agents 的大纲"
+              "title": "build-your-own-x 的大纲"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "cc923845cd9f9362",
   "lastOpenFiles": [
-    "learning/agency-agents.md",
     "stars/learning/hello-agents.md",
+    "learning/agency-agents.md",
     "stars/learning",
     "stars"
   ]
