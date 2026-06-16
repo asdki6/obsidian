@@ -4,8 +4,8 @@
   "title": "Fetch starred GitHub repos into Obsidian",
   "titleGenerationStatus": "success",
   "createdAt": 1781569020062,
-  "updatedAt": 1781569229386,
-  "lastResponseAt": 1781569229386,
+  "updatedAt": 1781569269219,
+  "lastResponseAt": 1781569269219,
   "sessionId": "3833a0e3-31a6-4960-ad25-16187891e127",
   "providerState": {
     "providerSessionId": "3833a0e3-31a6-4960-ad25-16187891e127"
@@ -13,11 +13,11 @@
   "currentNote": "CLAUDE.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 403,
+    "inputTokens": 129,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 48640,
+    "cacheReadInputTokens": 49408,
     "contextWindow": 200000,
-    "contextTokens": 49043,
+    "contextTokens": 49537,
     "percentage": 25,
     "contextWindowIsAuthoritative": true
   }
