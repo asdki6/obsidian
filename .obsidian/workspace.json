@@ -152,13 +152,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stars/learning/python-100-days.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "python-100-days 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -192,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -200,6 +199,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-weread-plugin:打开微信读书书架": false,
       "bijitongbu:tongbuzhushou": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:打开快速切换": false,
@@ -213,7 +213,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "6a8bb0b170d4f64a",
+  "active": "ed97bebae7beafe6",
   "lastOpenFiles": [
     "90 - 模板/项目模板.md",
     "90 - 模板/日记模板.md",

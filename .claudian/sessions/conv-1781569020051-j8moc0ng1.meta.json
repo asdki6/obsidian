@@ -4,8 +4,8 @@
   "title": "你是哪个模型",
   "titleGenerationStatus": "failed",
   "createdAt": 1781569020062,
-  "updatedAt": 1781605381663,
-  "lastResponseAt": 1781605381663,
+  "updatedAt": 1781624738726,
+  "lastResponseAt": 1781624738726,
   "sessionId": "129b8e11-03fb-4822-a4e8-19994c9eb858",
   "providerState": {
     "providerSessionId": "129b8e11-03fb-4822-a4e8-19994c9eb858",
@@ -16,11 +16,11 @@
   "currentNote": "CLAUDE.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 75,
+    "inputTokens": 111,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 48896,
+    "cacheReadInputTokens": 51072,
     "contextWindow": 200000,
-    "contextTokens": 48971,
-    "percentage": 24
+    "contextTokens": 51183,
+    "percentage": 26
   }
 }
