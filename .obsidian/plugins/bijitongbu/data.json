@@ -4,7 +4,7 @@
   "apiKey": "",
   "filter": "ALL",
   "syncAt": "",
-  "customQuery": "",
+  "customQuery": "in:all",
   "template": "{{{content}}}",
   "highlightOrder": "LOCATION",
   "folder": "笔记同步助手/{{{date}}}",
@@ -51,8 +51,13 @@
   "diaryLinkMaxLength": 0,
   "deviceSyncCursors": {},
   "initialSyncCompleted": false,
-  "deviceAutoSync": {},
-  "deviceAutoSyncMigrated": false,
+  "deviceAutoSync": {
+    "desktop-mqfyh9v2-b6h1": {
+      "frequency": 0,
+      "syncOnStart": false
+    }
+  },
+  "deviceAutoSyncMigrated": true,
   "escapeHashtags": false,
   "enableDebugLog": false,
   "burnAfterReading": false,
