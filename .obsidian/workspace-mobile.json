@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f0ae2c67e361499c",
+        "id": "8fe002ae571379a7",
         "type": "tabs",
         "children": [
           {
-            "id": "af30574035366327",
+            "id": "0ea1368bda41bd7d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -176,8 +176,12 @@
       "bijitongbu:tongbuzhushou": false
     }
   },
-  "active": "af30574035366327",
+  "active": "0ea1368bda41bd7d",
   "lastOpenFiles": [
+    "Obsidian Vault/欢迎.md",
+    "笔记同步助手/2026-06-16/同步助手_2026-06-16.md",
+    "笔记同步助手/2026-06-16",
+    "笔记同步助手",
     "平板测试.md",
     "conflict-files-obsidian-git.md",
     "手机测试.md",
