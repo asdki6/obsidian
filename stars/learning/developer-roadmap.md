@@ -1,7 +1,7 @@
 ---
 name: "developer-roadmap"
 full_name: "nilbuild/developer-roadmap"
-description: "Interactive roadmaps, guides and other educational content to help developers grow in their careers."
+description: "Interactive roadmaps, guides and educational content for developers."
 url: "https://github.com/nilbuild/developer-roadmap"
 language: "TypeScript"
 stars: 357360
@@ -13,78 +13,186 @@ created: 2026-06-16
 tags: [github/stars, roadmap, fullstack, devops]
 ---
 
-# developer-roadmap
+# developer-roadmap — 原始教学内容
 
-> nilbuild/developer-roadmap — ⭐ 357,360 stars
+<p align="center">
+  <a href="https://roadmap.sh/"><img src="public/img/brand.png" height="128"></a>
+  <h2 align="center"><a href="https://roadmap.sh">roadmap.sh</a></h2>
+  <p align="center">Community driven roadmaps, articles and resources for developers<p>
+  <p align="center">
+    <a href="https://roadmap.sh/roadmaps">
+    	<img src="https://img.shields.io/badge/%E2%9C%A8-Roadmaps%20-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
+    </a>
+    <a href="https://roadmap.sh/best-practices">
+    	<img src="https://img.shields.io/badge/%E2%9C%A8-Best%20Practices-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="best practices" />
+    </a>
+    <a href="https://roadmap.sh/questions">
+    	<img src="https://img.shields.io/badge/%E2%9C%A8-Questions-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="videos" />
+    </a>
+    <a href="https://www.youtube.com/channel/UCA0H2KIWgWTwpTFjSxp0now?sub_confirmation=1">
+    	<img src="https://img.shields.io/badge/%E2%9C%A8-YouTube%20Channel-0a0a0a.svg?style=flat&colorA=0a0a0a" alt="roadmaps" />
+    </a>
+  </p>
+</p>
 
-Interactive roadmaps, guides and other educational content to help developers grow in their careers. Website: [roadmap.sh](https://roadmap.sh)
+<br>
 
-## 信息
+![](https://i.imgur.com/waxVImv.png)
 
-| 属性 | 值 |
-|------|-----|
-| **GitHub** | [https://github.com/nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) |
-| **网站** | [roadmap.sh](https://roadmap.sh) |
-| **语言** | TypeScript |
-| **Stars** | ⭐ 357,360 |
-| **Forks** | 44,219 |
-| **Topics** | #computer-science #roadmap #developer-roadmap #frontend-roadmap #devops-roadmap #backend-roadmap #react-roadmap #angular-roadmap #python-roadmap #go-roadmap |
+Roadmaps are now interactive, you can click the nodes to read more about the topics.
 
-## README
+### [View all Roadmaps](https://roadmap.sh) &nbsp;&middot;&nbsp; [Best Practices](https://roadmap.sh/best-practices) &nbsp;&middot;&nbsp; [Questions](https://roadmap.sh/questions)
 
-Community driven roadmaps, articles and resources for developers.
+![](https://i.imgur.com/waxVImv.png)
 
-### Available Roadmaps
+Here is the list of available roadmaps with more being actively worked upon.
 
-The project provides interactive roadmaps for various developer paths:
+> Have a look at the [get started](https://roadmap.sh/get-started) page that might help you pick up a path.
 
-- **Frontend Roadmap** - Learn frontend development step by step
-- **Backend Roadmap** - Learn backend development step by step
-- **DevOps Roadmap** - Learn DevOps practices step by step
-- **React Roadmap** - Learn React step by step
-- **Angular Roadmap** - Learn Angular step by step
-- **Python Roadmap** - Learn Python step by step
-- **Go Roadmap** - Learn Go step by step
-- **Java Roadmap** - Learn Java step by step
-- **JavaScript Roadmap** - Learn JavaScript step by step
-- **Node.js Roadmap** - Learn Node.js step by step
-- **TypeScript Roadmap** - Learn TypeScript step by step
-- **Vue Roadmap** - Learn Vue step by step
-- **DBA Roadmap** - Learn database administration
-- **Blockchain Roadmap** - Learn blockchain development
-- **QA Roadmap** - Learn quality assurance
-- **Software Architect Roadmap** - Learn software architecture
-- **Computer Science Roadmap** - Learn computer science fundamentals
+- [Frontend Roadmap](https://roadmap.sh/frontend) / [Frontend Beginner Roadmap](https://roadmap.sh/frontend?r=frontend-beginner)
+- [Backend Roadmap](https://roadmap.sh/backend) / [Backend Beginner Roadmap](https://roadmap.sh/backend?r=backend-beginner)
+- [DevOps Roadmap](https://roadmap.sh/devops) / [DevOps Beginner Roadmap](https://roadmap.sh/devops?r=devops-beginner)
+- [DevSecOps Roadmap](https://roadmap.sh/devsecops)
+- [Full Stack Roadmap](https://roadmap.sh/full-stack)
+- [Claude Code Roadmap](https://roadmap.sh/claude-code)
+- [OpenClaw Roadmap](https://roadmap.sh/openclaw)
+- [Vibe Coding Roadmap](https://roadmap.sh/vibe-coding)
+- [HTML Roadmap](https://roadmap.sh/html)
+- [CSS Roadmap](https://roadmap.sh/css)
+- [JavaScript Roadmap](https://roadmap.sh/javascript)
+- [TypeScript Roadmap](https://roadmap.sh/typescript)
+- [Git and GitHub](https://roadmap.sh/git-github) / [Git and GitHub Beginner](https://roadmap.sh/git-github?r=git-github-beginner)
+- [API Design Roadmap](https://roadmap.sh/api-design)
+- [Computer Science Roadmap](https://roadmap.sh/computer-science)
+- [Data Structures and Algorithms Roadmap](https://roadmap.sh/datastructures-and-algorithms)
+- [AI and Data Scientist Roadmap](https://roadmap.sh/ai-data-scientist)
+- [AI Engineer Roadmap](https://roadmap.sh/ai-engineer)
+- [Network Engineer Roadmap](https://roadmap.sh/network-engineer)
+- [AWS Roadmap](https://roadmap.sh/aws)
+- [Cloudflare Roadmap](https://roadmap.sh/cloudflare)
+- [Linux Roadmap](https://roadmap.sh/linux)
+- [Leetcode Roadmap](https://roadmap.sh/leetcode)
+- [Terraform Roadmap](https://roadmap.sh/terraform)
+- [Data Analyst Roadmap](https://roadmap.sh/data-analyst)
+- [BI Analyst Roadmap](https://roadmap.sh/bi-analyst)
+- [Data Engineer Roadmap](https://roadmap.sh/data-engineer)
+- [Machine Learning Roadmap](https://roadmap.sh/machine-learning)
+- [MLOps Roadmap](https://roadmap.sh/mlops)
+- [Product Manager Roadmap](https://roadmap.sh/product-manager)
+- [Engineering Manager Roadmap](https://roadmap.sh/engineering-manager)
+- [QA Roadmap](https://roadmap.sh/qa)
+- [Python Roadmap](https://roadmap.sh/python) 
+- [Django Roadmap](https://roadmap.sh/django)
+- [Software Architect Roadmap](https://roadmap.sh/software-architect)
+- [Game Developer Roadmap](https://roadmap.sh/game-developer) / [Server Side Game Developer](https://roadmap.sh/server-side-game-developer)
+- [Software Design and Architecture Roadmap](https://roadmap.sh/software-design-architecture)
+- [C++ Roadmap](https://roadmap.sh/cpp)
+- [React Roadmap](https://roadmap.sh/react)
+- [Next.js Roadmap](https://roadmap.sh/nextjs)
+- [React Native Roadmap](https://roadmap.sh/react-native)
+- [Vue Roadmap](https://roadmap.sh/vue)
+- [Angular Roadmap](https://roadmap.sh/angular)
+- [Node.js Roadmap](https://roadmap.sh/nodejs)
+- [PHP Roadmap](https://roadmap.sh/php)
+- [WordPress Roadmap](https://roadmap.sh/wordpress)
+- [Laravel Roadmap](https://roadmap.sh/laravel)
+- [GraphQL Roadmap](https://roadmap.sh/graphql)
+- [Android Roadmap](https://roadmap.sh/android)
+- [iOS Roadmap](https://roadmap.sh/ios)
+- [Swift/Swift UI Roadmap](https://roadmap.sh/swift-ui)
+- [Flutter Roadmap](https://roadmap.sh/flutter)
+- [Go Roadmap](https://roadmap.sh/golang)
+- [Rust Roadmap](https://roadmap.sh/rust)
+- [Java Roadmap](https://roadmap.sh/java)
+- [Kotlin Roadmap](https://roadmap.sh/kotlin)
+- [Spring Boot Roadmap](https://roadmap.sh/spring-boot)
+- [Design System Roadmap](https://roadmap.sh/design-system)
+- [PostgreSQL Roadmap](https://roadmap.sh/postgresql-dba)
+- [ElasticSearch Roadmap](https://roadmap.sh/elasticsearch)
+- [SQL Roadmap](https://roadmap.sh/sql)
+- [Redis Roadmap](https://roadmap.sh/redis)
+- [Blockchain Roadmap](https://roadmap.sh/blockchain)
+- [ASP.NET Core Roadmap](https://roadmap.sh/aspnet-core)
+- [System Design Roadmap](https://roadmap.sh/system-design)
+- [Kubernetes Roadmap](https://roadmap.sh/kubernetes)
+- [Cyber Security Roadmap](https://roadmap.sh/cyber-security)
+- [MongoDB Roadmap](https://roadmap.sh/mongodb)
+- [UX Design Roadmap](https://roadmap.sh/ux-design)
+- [Docker Roadmap](https://roadmap.sh/docker)
+- [Prompt Engineering Roadmap](https://roadmap.sh/prompt-engineering)
+- [Technical Writer Roadmap](https://roadmap.sh/technical-writer)
+- [DevRel Engineer Roadmap](https://roadmap.sh/devrel)
+- [AI Red Teaming Roadmap](https://roadmap.sh/ai-red-teaming)
+- [AI Agents Roadmap](https://roadmap.sh/ai-agents)
+- [Bash/Shell Roadmap](https://roadmap.sh/shell-bash)
+- [Ruby Roadmap](https://roadmap.sh/ruby)
+- [Ruby on Rails Roadmap](https://roadmap.sh/ruby-on-rails)
+- [Scala Roadmap](https://roadmap.sh/scala)
+- [Forward Deployed Engineer Roadmap](https://roadmap.sh/forward-deployed-engineer)
 
-### Best Practices
 
-- **Frontend Performance** - Best practices for frontend performance optimization
-- **Backend Performance** - Best practices for backend performance optimization
-- **API Security** - Best practices for API security
-- **AWS Best Practices** - Best practices for AWS cloud infrastructure
-- **Git & GitHub Best Practices** - Version control best practices
+There are also interactive best practices:
 
-### Features
+- [Backend Performance Best Practices](https://roadmap.sh/best-practices/backend-performance)
+- [Frontend Performance Best Practices](https://roadmap.sh/best-practices/frontend-performance)
+- [Code Review Best Practices](https://roadmap.sh/best-practices/code-review)
+- [API Security Best Practices](https://roadmap.sh/best-practices/api-security)
+- [AWS Best Practices](https://roadmap.sh/best-practices/aws)
 
-- Interactive roadmaps with click-through nodes
-- Progress tracking and bookmarking
-- Community-contributed content
-- Printable and shareable roadmaps
-- Regular updates with latest technologies
+..and questions to help you test, rate and improve your knowledge
 
-### Tech Stack
+- [JavaScript Questions](https://roadmap.sh/questions/javascript)
+- [Node.js Questions](https://roadmap.sh/questions/nodejs)
+- [React Questions](https://roadmap.sh/questions/react)
+- [Backend Questions](https://roadmap.sh/questions/backend)
+- [Frontend Questions](https://roadmap.sh/questions/frontend)
 
-- **Frontend**: TypeScript, React, Tailwind CSS
-- **Backend**: Node.js
-- **Database**: PostgreSQL
-- **Hosting**: AWS
+![](https://i.imgur.com/waxVImv.png)
 
-Visit [roadmap.sh](https://roadmap.sh) for the interactive version.
+## Share with the community
 
-## 个人笔记
+Please consider sharing a post about [roadmap.sh](https://roadmap.sh) and the value it provides. It really does help!
 
-<!-- 在这里记录你的学习心得和笔记 -->
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit)](https://reddit.com/submit?url=https://roadmap.sh&title=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-hacker%20news-orange?logo=ycombinator)](https://news.ycombinator.com/submitlink?u=https://roadmap.sh)
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-twitter-03A9F4?logo=twitter)](https://twitter.com/share?url=https://roadmap.sh&text=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-facebook-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://roadmap.sh)
+[![GitHub Repo stars](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/shareArticle?url=https://roadmap.sh&title=Interactive%20roadmaps,%20guides%20and%20other%20educational%20content%20for%20Developers)
 
-## 相关链接
+## Development
 
-- [[stars/learning/index|📚 Learning 列表总览]]
+Clone the repository, install the dependencies and start the application
+
+```bash
+git clone git@github.com:nilbuild/developer-roadmap.git --depth 1
+cd developer-roadmap
+pnpm add @roadmapsh/editor@npm:@roadmapsh/dummy-editor -w
+pnpm install
+```
+
+Run the development server with:
+
+```bash
+pnpm dev
+```
+> Make sure to rename `.env.example` to `.env` before running the app.
+
+## Contribution
+
+> Have a look at [contribution docs](./contributing.md) for how to update any of the roadmaps
+
+- Add content to roadmaps
+- Add new roadmaps
+- Suggest changes to existing roadmaps
+- Discuss ideas in issues
+- Spread the word
+
+## Thanks to all contributors ❤
+
+ <a href = "https://github.com/nilbuild/developer-roadmap/graphs/contributors">
+   <img src = "https://contrib.rocks/image?repo=nilbuild/developer-roadmap"/>
+ </a>
+
+## License
+
+Have a look at the [license file](./license) for details

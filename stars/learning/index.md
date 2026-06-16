@@ -4,13 +4,13 @@ updated: 2026-06-16
 source: "https://github.com/stars/asdki6/lists/learning"
 list_name: learning
 list_description: ""
-total_repos: 11
+total_repos: 9
 tags: [github/stars, learning]
 ---
 
 # 📚 GitHub 星标仓库总览
 
-> 来源：[asdki6/learning](https://github.com/stars/asdki6/lists/learning) | 11 个星标仓库 | 1,947 行教学内容
+> 来源：[asdki6/learning](https://github.com/stars/asdki6/lists/learning) | 9 个星标仓库 | **85,818 行原始教学内容**
 
 ## 目录
 
@@ -41,19 +41,12 @@ tags: [github/stars, learning]
 | [[stars/learning/developer-roadmap\|🗺️ developer-roadmap]] | 开发者路线图与学习资源导航 | 357,360 |
 | [[stars/learning/project-based-learning\|📐 project-based-learning]] | 项目驱动的编程教程集合 | 269,546 |
 
-## 其他已星标仓库
-
-| 仓库 | ⭐ Stars |
-|------|---------|
-| [[stars/learning/public-apis\|🌐 public-apis]] | 441,840 |
-| [[stars/learning/prompt-optimizer\|⚡ prompt-optimizer]] | 1 |
-
 ---
 
 ## 📊 统计
 
-- **总星数**: ⭐ 2,782,120
-- **笔记总行数**: 1,947 行教学内容
+- **总星数**: ⭐ 2,340,279
+- **笔记总行数**: **85,818 行原始教学内容**
 - **主要语言**: TypeScript, Python, Jupyter Notebook, Shell, Markdown
 
 ### 学习路线建议

@@ -1,7 +1,7 @@
 ---
 name: "freeCodeCamp"
 full_name: "freeCodeCamp/freeCodeCamp"
-description: "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free."
+description: "freeCodeCamp.org's open-source codebase and curriculum."
 url: "https://github.com/freeCodeCamp/freeCodeCamp"
 language: "TypeScript"
 stars: 447872
@@ -13,141 +13,100 @@ created: 2026-06-16
 tags: [github/stars, education, programming, freecodecamp]
 ---
 
-# freeCodeCamp
+# freeCodeCamp — 原始教学内容
 
-> freeCodeCamp/freeCodeCamp — ⭐ 447,872 stars
+[![freeCodeCamp Social Banner](https://cdn.freecodecamp.org/platform/universal/fcc_banner_new.png)](https://www.freecodecamp.org/)
 
-freeCodeCamp.org 的开源代码库和课程体系。免费学习数学、编程和计算机科学。
+[![first-timers-only Friendly](https://img.shields.io/badge/first--timers--only-friendly-blue.svg)](https://www.firsttimersonly.com/)
+[![Discord](https://img.shields.io/discord/692816967895220344?logo=discord&label=Discord&color=5865F2)](https://discord.gg/PRyKn3Vbay)
+[![LFX Active Contributors](https://insights.linuxfoundation.org/api/badge/active-contributors?project=freecodecamp&repos=https://github.com/freeCodeCamp/freeCodeCamp)](https://insights.linuxfoundation.org/project/freecodecamp/repository/freecodecamp-freecodecamp)
 
----
+## freeCodeCamp.org's open-source codebase and curriculum
 
-## 🎓 认证体系（30+ 认证）
+[freeCodeCamp.org](https://www.freecodecamp.org) is a friendly community where you can learn to code for free. It is run by a [donor-supported 501(c)(3) charity](https://www.freecodecamp.org/donate) to help millions of busy adults transition into tech. Our community has already helped more than 100,000 people get their first developer job.
 
-每个认证包含约 300 小时的学习内容和 5 个实战项目。
+Our full-stack web development and machine learning curriculum is completely free and self-paced. We have thousands of interactive coding challenges to help you expand your skills.
 
-### 1️⃣ 响应式 Web 设计（Responsive Web Design）
-- **技术栈**：HTML5, CSS3, Flexbox, CSS Grid
-- **项目**：个人作品集、调查表单、产品落地页、技术文档页、个人主页
-- ⭐ 推荐入门第一站
+## Table of Contents
 
-### 2️⃣ JavaScript 算法与数据结构
-- **技术栈**：JavaScript, ES6+, 正则表达式, OOP, 数据结构
-- **项目**：回文检查器、罗马数字转换器、凯撒密码、电话号码验证器、现金收银机
-- ⭐ 编程基础核心
+- [Certifications](#certifications)
+- [The Learning Platform](#the-learning-platform)
+- [Reporting Bugs and Issues](#reporting-bugs-and-issues)
+- [Reporting Security Issues and Responsible Disclosure](#reporting-security-issues-and-responsible-disclosure)
+- [Contributing](#contributing)
+- [Platform, Build and Deployment Status](#platform-build-and-deployment-status)
+- [License](#license)
 
-### 3️⃣ 前端库（Front End Libraries）
-- **技术栈**：React, Redux, jQuery, Bootstrap, Sass
-- **项目**：Markdown 预览器、Drum Machine、计算器、番茄时钟、随机语录机
+### Certifications
 
-### 4️⃣ 数据可视化（Data Visualization）
-- **技术栈**：D3.js, JSON, AJAX
-- **项目**：条形图、散点图、热力图、等高线图、Tree Map
+freeCodeCamp.org offers several free developer certifications that make up the [Full-Stack Developer Curriculum](https://www.freecodecamp.org/learn/full-stack-developer-v9/):
 
-### 5️⃣ 后端开发与 API（Backend Development and APIs）
-- **技术栈**：Node.js, Express, MongoDB, Mongoose
-- **项目**：时间戳微服务、请求头解析器、URL 缩短器、运动追踪器、文件元数据微服务
+- [Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design-v9/)
+- [JavaScript](https://www.freecodecamp.org/learn/javascript-v9/)
+- [Front-End Development Libraries](https://www.freecodecamp.org/learn/front-end-development-libraries-v9/)
+- [Python](https://www.freecodecamp.org/learn/python-v9/)
+- [Relational Databases](https://www.freecodecamp.org/learn/relational-databases-v9/)
+- [Back-End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis-v9/)
 
-### 6️⃣ 质量保证（Quality Assurance）
-- **技术栈**：Chai, Mocha, 单元测试, 功能测试
-- **项目**：指标转换器、问题追踪器、个人图书馆、Sudoku 求解器、American-British 翻译器
+Each of these certifications involves completing interactive lessons, workshops, labs, reviews, and quizzes. Throughout the certification, you'll need to complete 5 required projects to qualify for the exam. Once you pass the exam, then you can claim the certification.
 
-### 7️⃣ Python 科学计算（Scientific Computing with Python）
-- **技术栈**：Python, 代数
-- **项目**：算术格式化器、时间计算器、Budget App、多边形面积计算器、概率计算器
+freeCodeCamp.org also offers free language certifications designed around internationally recognized proficiency levels:
 
-### 8️⃣ Python 数据分析（Data Analysis with Python）
-- **技术栈**：Python, NumPy, Pandas, Matplotlib, Seaborn
-- **项目**：人口统计数据分析、医学数据可视化、海平面预测
+- [A2 English for Developers (Beta)](https://www.freecodecamp.org/learn/a2-english-for-developers/)
+- [B1 English for Developers (Beta)](https://www.freecodecamp.org/learn/b1-english-for-developers/)
+- [A1 Professional Spanish (Beta)](https://www.freecodecamp.org/learn/a1-professional-spanish/)
+- [A1 Professional Chinese (Beta)](https://www.freecodecamp.org/learn/a1-professional-chinese/)
 
-### 9️⃣ 信息安全（Information Security）
-- **技术栈**：HelmetJS, Python 安全
-- **项目**：股票价格检查器、匿名消息板、端口扫描器、SHA-1 破解器、安全实时多人游戏
+Each of these certifications is organized into modules, with sections for warm-ups, lessons, practice exercises, review pages, and quizzes to ensure you fully grasp the material before progressing to the next module. You'll need to complete all of the quizzes in order to qualify for the exam at the end of the certification.
 
-### 🔟 Python 机器学习（Machine Learning with Python）
-- **技术栈**：TensorFlow, Scikit-learn, 神经网络
-- **项目**：石头剪刀布、猫狗分类器、图书推荐引擎、线性回归健康预测器、神经网络短信分类器
+Once you've earned a certification, you will always have it. You will always be able to link to it from your LinkedIn or resume. And when your prospective employers or freelance clients click that link, they'll see a verified certification specific to you.
 
-### 1️⃣1️⃣ College Algebra with Python
-- 代数概念 + Python 实现
-- **项目**：算术格式化器、时间计算器、Budget App、多边形面积计算器、概率计算器
+The one exception to this is if we discover violations of our [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/). When we catch people unambiguously plagiarizing (submitting other people's code or projects as their own without citation), we do what all rigorous institutions of learning should do - we revoke their certifications and ban those people.
 
-### 1️⃣2️⃣ A2 English for Developers
-- 面向开发者的英语课程
-- 覆盖技术文档阅读、代码审查交流、会议沟通等场景
+In addition, to help prepare for job interviews, freeCodeCamp.org includes The Odin Project (freeCodeCamp Remix), Coding Interview Prep, Project Euler, and Rosetta Code.
 
-### 1️⃣3️⃣ Foundational C# with Microsoft
-- **技术栈**：C#, .NET
-- 与 Microsoft 合作开发的 C# 基础认证
+A free, professional Foundational C# with Microsoft Certification is also available.
 
----
+### The Learning Platform
 
-## 🗂️ 课程体系结构
+This code is running live at [freeCodeCamp.org](https://www.freecodecamp.org).
 
-```
-curriculum/challenges/english/
-├── certifications/
-│   ├── responsive-web-design.yml       ← 课程大纲定义
-│   ├── javascript-algorithms-and-data-structures.yml
-│   ├── front-end-development-libraries.yml
-│   ├── data-visualization.yml
-│   ├── back-end-development-and-apis.yml
-│   ├── quality-assurance.yml
-│   ├── scientific-computing-with-python.yml
-│   ├── data-analysis-with-python.yml
-│   ├── information-security.yml
-│   ├── machine-learning-with-python.yml
-│   ├── college-algebra-with-python.yml
-│   ├── a2-english-for-developers.yml
-│   ├── foundational-c-sharp-with-microsoft.yml
-│   └── ... (含旧版和新版)
+Our community also has:
 
-├── blocks/               ← 每个认证中的模块/块
-│   ├── responsive-web-design/
-│   ├── javascript-algorithms/
-│   └── ... 
-```
+- A [forum](https://forum.freecodecamp.org) where you can usually get programming help or project feedback within hours.
+- A [YouTube channel](https://youtube.com/freecodecamp) with free courses on Python, SQL, Android, and a wide variety of other technologies.
+- A [technical publication](https://www.freecodecamp.org/news) with thousands of programming tutorials and articles about mathematics and computer science.
+- A [Discord server](https://discord.gg/Z7Fm39aNtZ) where you can hang out and talk with developers and people who are learning to code.
 
-每个 `.yml` 文件定义了课程的完整大纲：模块结构、课程顺序、项目要求等。
+> #### [Join the community here](https://www.freecodecamp.org/signin).
 
----
+### Reporting Bugs and Issues
 
-## 🛠️ 技术栈
+If you think you've found a bug, first read the [how to report a bug](https://forum.freecodecamp.org/t/how-to-report-a-bug/19543) article and follow its instructions.
 
-| 层级 | 技术 |
-|------|------|
-| **前端** | React, TypeScript, Tailwind CSS |
-| **后端** | Node.js, Express |
-| **数据库** | MongoDB |
-| **测试** | Cypress, Playwright, Jest |
-| **工具** | Turbororepo, Vite, Vitest |
+If you're confident it's a new bug and have confirmed that someone else is facing the same issue, go ahead and create a new GitHub issue. Be sure to include as much information as possible so we can reproduce the bug.
 
----
+### Reporting Security Issues and Responsible Disclosure
 
-## 📁 项目结构
+We appreciate responsible disclosure of vulnerabilities that might impact the integrity of our platforms and users.
 
-```
-curriculum/             → 课程内容（核心！）
-├── challenges/         → 挑战题目
-│   └── english/        → 英文版课程
-├── schema/             → 数据模式定义
-├── src/                → 课程工具代码
-├── dictionaries/       → 多语言字典
-├── i18n-curriculum/    → 国际化课程
-└── structure/          → 课程结构配置
+> #### [Read our security policy and follow these steps to report a vulnerability](https://contribute.freecodecamp.org/#/security).
 
-api/                    → API 服务器
-client/                 → React 客户端应用
-shared/                 → 共享工具库
-tools/                  → 构建和部署工具
-```
+### Contributing
 
-> 💡 **全部教学内容**：`curriculum/challenges/` 包含数千个交互式编程挑战的源码。每个挑战包含：说明文档、初始代码、测试用例。访问 [freeCodeCamp.org](https://www.freecodecamp.org) 可在线学习，或克隆仓库本地学习。
+The freeCodeCamp.org community is possible thanks to thousands of kind volunteers like you. We welcome all contributions to the community and are excited to welcome you aboard.
 
-## 个人笔记
+> #### [Please follow these steps to contribute](https://contribute.freecodecamp.org).
 
-<!-- 在这里记录你的学习心得和笔记 -->
+Recent Contributions:
 
-## 相关链接
+![Alt](https://repobeats.axiom.co/api/embed/89be0a1a1c8f641c54f9234a7423e7755352c746.svg 'Repobeats analytics image')
 
-- [[stars/learning/index|📚 全部星标仓库总览]]
-- [[stars/learning/project-based-learning|project-based-learning]]
+### License
+
+Copyright © 2014 freeCodeCamp.org
+
+The content of this repository is bound by the following licenses:
+
+- The computer software is licensed under the [BSD-3-Clause](LICENSE.md) license.
+- The learning resources in the [`/curriculum`](/curriculum) directory including their subdirectories therein are copyright © 2014 freeCodeCamp.org
