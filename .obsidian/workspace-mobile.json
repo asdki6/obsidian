@@ -15,7 +15,7 @@
               "state": {
                 "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "conflict-files-obsidian-git"
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "f5a00408cfa17213",
@@ -180,7 +180,7 @@
       "bijitongbu:tongbuzhushou": false
     }
   },
-  "active": "bbace4beedf942d7",
+  "active": "3d0ed7d4ac9365bb",
   "lastOpenFiles": [
     "GitHub/obsidian/stars/learning/hello-agents.md",
     "平板测试.md",
