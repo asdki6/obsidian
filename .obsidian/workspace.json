@@ -11,14 +11,10 @@
             "id": "42a8857798125952",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "手机测试.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "手机测试"
+              "title": "新标签页"
             }
           }
         ]
@@ -166,16 +162,6 @@
             }
           },
           {
-            "id": "0018858faaae8b86",
-            "type": "leaf",
-            "state": {
-              "type": "claudian-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "claudian-view"
-            }
-          },
-          {
             "id": "6a8bb0b170d4f64a",
             "type": "leaf",
             "state": {
@@ -206,9 +192,30 @@
   },
   "active": "5adbcbcf557ad441",
   "lastOpenFiles": [
+    "笔记同步助手/2026-06-16/同步助手_2026-06-16.md",
+    "笔记同步助手/2026-06-16",
+    "笔记同步助手",
+    "GitHub日常学习/obsidian/stars/stars/learning/hello-agents.md",
+    "GitHub日常学习/obsidian/stars/learning/python-100-days.md",
+    "GitHub日常学习/obsidian/stars/stars/learning",
+    "GitHub日常学习/obsidian/stars/learning/project-based-learning.md",
+    "GitHub日常学习/obsidian/stars/learning/freecodecamp.md",
+    "GitHub日常学习/obsidian/stars/learning/index.md",
+    "GitHub日常学习/obsidian/stars/learning/hello-agents.md",
+    "GitHub日常学习/obsidian/stars/learning/dive-into-llms.md",
+    "GitHub日常学习/obsidian/stars/learning/developer-roadmap.md",
+    "GitHub日常学习/obsidian/stars/learning/coding-interview-university.md",
+    "GitHub日常学习/obsidian/stars/learning/build-your-own-x.md",
+    "GitHub日常学习/obsidian/stars/learning/agency-agents.md",
+    "GitHub日常学习/obsidian/stars/stars",
+    "GitHub日常学习/obsidian/stars/learning",
+    "GitHub日常学习/obsidian/CLAUDE.md",
+    "GitHub日常学习/obsidian/stars",
+    "GitHub日常学习/obsidian",
+    "GitHub日常学习",
+    "手机测试.md",
     "GitHub/obsidian/测试.md",
     "未命名.md",
-    "手机测试.md",
     "stars/learning/python-100-days.md",
     "stars/learning/public-apis.md",
     "stars/learning/prompt-optimizer.md",
@@ -220,14 +227,6 @@
     "stars/stars/learning",
     "stars/stars",
     "stars/learning/dive-into-llms.md",
-    "stars/learning/hello-agents.md",
-    "stars/learning/coding-interview-university.md",
-    "stars/learning/freecodecamp.md",
-    "stars/learning/developer-roadmap.md",
-    "stars/learning/project-based-learning.md",
-    "stars/learning",
-    "stars",
-    "测试.md",
-    "新建 文本文档.txt"
+    "stars/learning/hello-agents.md"
   ]
 }
