@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名.md",
+                "file": "手机测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "手机测试"
             }
           }
         ]
@@ -168,6 +168,6 @@
   },
   "active": "4769214ed6775c46",
   "lastOpenFiles": [
-    "未命名.md"
+    "手机测试.md"
   ]
 }
