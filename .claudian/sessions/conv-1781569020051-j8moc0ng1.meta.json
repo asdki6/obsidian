@@ -1,11 +1,11 @@
 {
   "id": "conv-1781569020051-j8moc0ng1",
   "providerId": "claude",
-  "title": "Fetch starred GitHub repos into Obsidian",
-  "titleGenerationStatus": "success",
+  "title": "为什么右上角一直显示no cmommits to push 和no changes to commi...",
+  "titleGenerationStatus": "pending",
   "createdAt": 1781569020062,
-  "updatedAt": 1781570704492,
-  "lastResponseAt": 1781570704492,
+  "updatedAt": 1781573390605,
+  "lastResponseAt": 1781573390605,
   "sessionId": "3833a0e3-31a6-4960-ad25-16187891e127",
   "providerState": {
     "providerSessionId": "3833a0e3-31a6-4960-ad25-16187891e127"
