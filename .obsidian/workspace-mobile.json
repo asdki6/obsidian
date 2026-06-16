@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ee1d2bf5b89b75ec",
+        "id": "f0cfd7c0509cb9d8",
         "type": "tabs",
         "children": [
           {
-            "id": "d9458006847ae634",
+            "id": "7bd94f2246e1ff62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "平板测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "平板测试"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "平板测试.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "平板测试.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "conflict-files-obsidian-git.md",
+            "file": "平板测试.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -180,12 +180,13 @@
       "bijitongbu:tongbuzhushou": false
     }
   },
-  "active": "d9458006847ae634",
+  "active": "7bd94f2246e1ff62",
   "lastOpenFiles": [
-    "Obsidian Vault/未命名 1.md",
-    "未命名.canvas",
-    "未命名.md",
-    "1111.md",
-    "conflict-files-obsidian-git.md"
+    "平板测试.md",
+    "conflict-files-obsidian-git.md",
+    "测试.md",
+    "Obsidian Vault/123456.md",
+    "Obsidian Vault/CLAUDE.md",
+    "未命名.canvas"
   ]
 }
