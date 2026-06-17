@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "96e95ce4d652ccac",
+    "id": "18e6453b1b39645c",
     "type": "split",
     "children": [
       {
-        "id": "12cdf8f132aca9c8",
+        "id": "6a257fa6420908d9",
         "type": "tabs",
         "children": [
           {
-            "id": "3bf249b56ced612c",
+            "id": "4769214ed6775c46",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "手机测试.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "手机测试"
             }
           }
         ]
@@ -23,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "87227d513f17de1e",
+    "id": "99c835ce7c5d003f",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "3d0ed7d4ac9365bb",
+        "id": "847ec08ec75ca45b",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -40,12 +44,12 @@
         }
       },
       {
-        "id": "bbace4beedf942d7",
+        "id": "a4c4160f89f2b348",
         "type": "leaf",
         "state": {
           "type": "search",
           "state": {
-            "query": "community-pl",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -57,7 +61,7 @@
         }
       },
       {
-        "id": "21f94aba78bc3e44",
+        "id": "8bb14583d221953a",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -72,7 +76,7 @@
         }
       },
       {
-        "id": "91643e4a26384b37",
+        "id": "4ff1ced85cc665b8",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -86,7 +90,7 @@
         }
       },
       {
-        "id": "54514085fc52b154",
+        "id": "8cb63801b5e9df8f",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -99,16 +103,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "f5a00408cfa17213",
+    "id": "1843a178153549bc",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "7c91ed2daa48de24",
+        "id": "95ec68412d5996db",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "平板测试.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -122,12 +125,11 @@
         }
       },
       {
-        "id": "f619fb93254f2035",
+        "id": "f6ebbcf825e4df1a",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "平板测试.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -136,12 +138,11 @@
         }
       },
       {
-        "id": "9d3d684894ce046a",
+        "id": "471c8d8f0185c537",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "平板测试.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -151,7 +152,7 @@
         }
       },
       {
-        "id": "7252c21ee7da0ae8",
+        "id": "236be2b44d814e40",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -159,74 +160,24 @@
           "icon": "git-pull-request",
           "title": "Source Control"
         }
-      },
-      {
-        "id": "b6f8614f2bf28955",
-        "type": "leaf",
-        "state": {
-          "type": "calendar",
-          "state": {},
-          "icon": "calendar-with-checkmark",
-          "title": "Calendar"
-        }
       }
     ],
     "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "bijitongbu:tongbuzhushou": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:新建数据库": false
     }
   },
-  "active": "3bf249b56ced612c",
+  "active": "4769214ed6775c46",
   "lastOpenFiles": [
-    "笔记同步助手/2026-06-16/GitHub - jackfrued-Python-100-Days- Python - 100天从新手到大师.md",
-    "笔记同步助手/2026-06-16/Claude + Obsidian：打造个人第二大脑的完整指南.md",
-    "笔记同步助手/2026-06-16/同步助手_2026-06-16.md",
-    "模板.md",
-    "笔记同步助手/images/d6a8538541184bc55670a9cdef3e1d28_MD5.png",
-    "笔记同步助手/images/3f866a475e4217292b1a3b93f46792b2_MD5.jpg",
-    "笔记同步助手/images/4273c04003a83af223c2399e6c1e6a37_MD5.png",
-    "笔记同步助手/images/557409a29ecce02921076255dcb58e00_MD5.png",
-    "笔记同步助手/images/44a7089995835b1b3b1875dbad27432e_MD5.png",
-    "笔记同步助手/images/cfa0b1b2ad16695f3828b8837f991368_MD5.png",
-    "笔记同步助手/images/a363f4eee52cce122d8d1af6073bace1_MD5.png",
-    "笔记同步助手/images",
-    "未命名.base",
-    "模板",
-    "curriculum.md",
-    "笔记同步助手/images/0b69d738d9a579d10732c13a5ec990d7_MD5.jpg",
-    "GitHub日常学习/obsidian/stars/learning/python-100-days.md",
-    "1",
-    "/1",
-    "笔记同步助手/images/e31ac461ef51ad708e75f42259680fe5_MD5.jpg",
-    "笔记同步助手/images/2fb734c03478abf52b29de0d2c84e362_MD5.jpg",
-    "笔记同步助手/2026-06-16/2.87 复制打开抖音，看看【Sora的作品】价值888，Claude + Obsidian讲解... https---v.douyin.com-Pa6E1mquWB8- 07-26 -4pm ... 2.md",
-    "笔记同步助手/2026-06-16/2.87 复制打开抖音，看看【Sora的作品】价值888，Claude + Obsidian讲解... https---v.douyin.com-Pa6E1mquWB8- 07-26 -4pm ....md",
-    "Obsidian Vault/欢迎.md",
-    "笔记同步助手/2026-06-16",
-    "笔记同步助手",
-    "平板测试.md",
-    "conflict-files-obsidian-git.md",
-    "手机测试.md",
-    "/手机测试.md",
-    "GitHub日常学习/obsidian/stars/learning/hello-agents.md",
-    "/未命名.md",
-    "/conflict-files-obsidian-git.md",
-    "gitignore.md",
-    "1.gitignore",
-    "测试.md",
-    "Obsidian Vault/123456.md",
-    "Obsidian Vault/CLAUDE.md",
-    "未命名.canvas"
+    "手机测试.md"
   ]
 }
