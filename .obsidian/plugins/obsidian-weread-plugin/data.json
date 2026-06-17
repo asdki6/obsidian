@@ -1,15 +1,56 @@
 {
   "loginMethod": "scan",
-  "cookies": [],
-  "noteLocation": "/",
-  "dailyNotesLocation": "/",
+  "cookies": [
+    {
+      "name": "wr_fp",
+      "value": "383401876"
+    },
+    {
+      "name": "wr_localvid",
+      "value": ""
+    },
+    {
+      "name": "wr_name",
+      "value": ""
+    },
+    {
+      "name": "wr_avatar",
+      "value": ""
+    },
+    {
+      "name": "wr_gender",
+      "value": ""
+    },
+    {
+      "name": "wr_skey",
+      "value": "MELUPgf8"
+    },
+    {
+      "name": "wr_vid",
+      "value": "318874503"
+    },
+    {
+      "name": "wr_ql",
+      "value": "0"
+    },
+    {
+      "name": "wr_rt",
+      "value": "web@x0A2JIc5PD0jXE8ktPj_AL"
+    },
+    {
+      "name": "wr_gid",
+      "value": "216104168"
+    }
+  ],
+  "noteLocation": "30 - 资源/微信读书",
+  "dailyNotesLocation": "10 - 日记",
   "insertAfter": "<!-- start of weread -->",
   "insertBefore": "<!-- end of weread -->",
   "dailyNotesFormat": "YYYY-MM-DD",
-  "lastCookieTime": -1,
-  "isCookieValid": false,
+  "lastCookieTime": 1781624949242,
+  "isCookieValid": true,
   "user": "",
-  "userVid": "",
+  "userVid": "318874503",
   "userAvatar": "",
   "userSignature": "",
   "template": "",
@@ -40,10 +81,47 @@
   "cookieRefreshInterval": 12,
   "scheduledSyncToggle": false,
   "scheduledSyncInterval": 5,
-  "lastSyncTime": 0,
-  "lastSyncBookCount": 0,
+  "lastSyncTime": 1781624983357,
+  "lastSyncBookCount": 5,
   "lastSyncBookTitles": [],
-  "syncLogs": [],
+  "syncLogs": [
+    {
+      "id": "sync-1781624980203",
+      "timestamp": 1781624980203,
+      "totalBooks": 5,
+      "syncedBooks": 5,
+      "skippedBooks": 0,
+      "duration": 3.153,
+      "notes": [
+        {
+          "bookId": "CB_3qQE6IE529ML71p71WGMP24i",
+          "title": "文化苦旅",
+          "filePath": "文化苦旅.md"
+        },
+        {
+          "bookId": "CB_GcAGkQGjoBAE72E71WC1q6YS",
+          "title": "亮剑 (都梁) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+          "filePath": "亮剑 (都梁) (z-library.sk, 1lib.sk, z-lib.sk).pdf.md"
+        },
+        {
+          "bookId": "812443",
+          "title": "白鹿原",
+          "filePath": "白鹿原.md"
+        },
+        {
+          "bookId": "822995",
+          "title": "明朝那些事儿（全集）",
+          "filePath": "明朝那些事儿（全集）.md"
+        },
+        {
+          "bookId": "933335",
+          "title": "龙族Ⅴ：悼亡者的归来",
+          "filePath": "龙族Ⅴ：悼亡者的归来.md"
+        }
+      ],
+      "success": true
+    }
+  ],
   "bookshelfSortMode": "recent",
   "bookshelfGroupByYear": true,
   "bookshelfDefaultSyncStatusFilter": "all",
@@ -80,8 +158,8 @@
     }
   ],
   "activeThemeId": "builtin_merged",
-  "wereadApiKey": "",
-  "apiKeyValid": null,
+  "wereadApiKey": "wrk-k9neSZ5NQ1iq4A85FHNlcQAA",
+  "apiKeyValid": true,
   "readingStatsLocation": "/",
   "statsStartYear": 0,
   "popularHighlightsCacheTtl": 7

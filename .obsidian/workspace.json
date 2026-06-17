@@ -11,13 +11,28 @@
             "id": "42a8857798125952",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "weread-bookshelf-view",
               "state": {},
+              "icon": "library",
+              "title": "微信读书书架"
+            }
+          },
+          {
+            "id": "d7abe4ce5fd09d1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "90 - 模板/llm-wiki/tpl-comparison.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "tpl-comparison"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -191,11 +206,11 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 702.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,53 +228,52 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ed97bebae7beafe6",
+  "active": "6a8bb0b170d4f64a",
   "lastOpenFiles": [
-    "90 - 模板/项目模板.md",
-    "90 - 模板/日记模板.md",
-    "90 - 模板/人物模板.md",
-    "新仓库配置指南.md",
-    "模板.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/Day01-20/01.初识Python.md",
-    "主页.md",
-    "90 - 模板",
-    "40 - 存档",
-    "30 - 资源",
-    "20 - 项目",
-    "10 - 日记",
-    "00 - 收件箱",
-    "GitHub日常学习/obsidian/stars/learning/python-100-days.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/Day01-20/02.第一个Python程序.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/Day01-20/res/day02/visual_studio_code.png",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/Day01-20/res/day01/github_pypl_and_ieee_spectrum.png",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/Day01-20/res/day01/disable_path_depth_limit.png",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/_MyLearning/100天学习驾驶舱.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/公开课/年薪50W+的Python程序员如何写代码/code/Java/opencourse/out/production/opencourse/org/mobiletrain/Example05.class",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/公开课/年薪50W+的Python程序员如何写代码/code/Java/opencourse/out/production/opencourse/org/mobiletrain/Example05$RequestHandler.class",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/公开课/年薪50W+的Python程序员如何写代码/code/Java/opencourse/out/production/opencourse/org/mobiletrain/Example04.class",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/公开课/年薪50W+的Python程序员如何写代码/code/Java/opencourse/out/production/opencourse/org/mobiletrain/Example03.class",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/公开课/第04次公开课-好玩的Python/code/resources/frame.jpg",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/公开课/第04次公开课-好玩的Python/code/resources/chiling.jpg",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/公开课/第06次公开课-算法入门系列2-在水一方/res/maze.png",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/公开课/第06次公开课-算法入门系列2-在水一方/res/knight_tour.gif",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/公开课/第06次公开课-算法入门系列2-在水一方/res/eight_queen.png",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/公开课/第06次公开课-算法入门系列2-在水一方/res/droste.png",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/公开课/年薪50W+的Python程序员如何写代码/res/action.png",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/公开课/第06次公开课-算法入门系列2-在水一方/算法入门系列2 - 在水一方.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/公开课/第05次公开课-算法入门系列1-周而复始/算法入门系列1-周而复始.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/公开课/第04次公开课-好玩的Python/好玩的Python.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/公开课/年薪50W+的Python程序员如何写代码/年薪50W+的Python程序员如何写代码.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/番外篇/那些年我们踩过的那些坑.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/番外篇/知乎问题回答.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/番外篇/用函数还是用复杂的表达式.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/番外篇/接口文档参考示例.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/番外篇/我为什么选择了Python.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/番外篇/常见反爬策略及应对方案.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/番外篇/如何快速驾驭 pandas 库.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/番外篇/分享几张学习路线图.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/番外篇/使用Hexo搭建自己的博客.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/番外篇/一个小例子助你彻底理解协程.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/番外篇/Python编程惯例.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/番外篇/Python容器使用小技巧.md"
+    "karpathy/llm-wiki.md",
+    "karpathy/CLAUDE.md",
+    "karpathy/LLM Wiki 知识库管理运营体系.md",
+    "主页.md.tmp.51068.b10f5430b4b0",
+    "90 - 模板/llm-wiki/tpl-overview.md",
+    "90 - 模板/llm-wiki/tpl-comparison.md",
+    "90 - 模板/llm-wiki/tpl-comparison.md.tmp.51068.5b44034c1c68",
+    "90 - 模板/llm-wiki/tpl-concept.md",
+    "90 - 模板/llm-wiki/tpl-entity.md",
+    "90 - 模板/llm-wiki/tpl-source-summary.md",
+    "CLAUDE.md.tmp.51068.2da70b90b012",
+    "karpathy/wiki/log.md",
+    "wiki/log.md.tmp.51068.21bc18a09289",
+    "karpathy/wiki/index.md",
+    "wiki/index.md.tmp.51068.41f0cd28f62f",
+    "90 - 模板/llm-wiki",
+    "karpathy/wiki/sources",
+    "karpathy/wiki/entities",
+    "karpathy/wiki/overview",
+    "karpathy/wiki/concepts",
+    "blink/README.md",
+    "笔记同步助手/2026-06-16/Claude + Obsidian：打造个人第二大脑的完整指南.md",
+    "blink/wiki/log.md",
+    "blink/wiki/index.md",
+    "blink/TheSchema.md",
+    "blink/Attachments/Pasted image 20260410195907.png",
+    "blink/Attachments/Pasted image 20260410195828.png",
+    "blink/Attachments/Pasted image 20260410195804.png",
+    "blink/Attachments/Pasted image 20260410195715.png",
+    "blink/Attachments/Pasted image 20260410195644.png",
+    "blink/Attachments/539.jpg",
+    "笔记同步助手/2026-06-16/同步助手_2026-06-16.md",
+    "笔记同步助手/2026-06-16/GitHub - jackfrued-Python-100-Days- Python - 100天从新手到大师.md",
+    "笔记同步助手/images/d6a8538541184bc55670a9cdef3e1d28_MD5.png",
+    "笔记同步助手/images/cfa0b1b2ad16695f3828b8837f991368_MD5.png",
+    "笔记同步助手/images/a363f4eee52cce122d8d1af6073bace1_MD5.png",
+    "笔记同步助手/images/557409a29ecce02921076255dcb58e00_MD5.png",
+    "白鹿原.md",
+    "30 - 资源/微信读书/龙族Ⅴ：悼亡者的归来.md",
+    "30 - 资源/微信读书/明朝那些事儿（全集）.md",
+    "30 - 资源/微信读书/白鹿原.md",
+    "30 - 资源/微信读书/亮剑 (都梁) (z-library.sk, 1lib.sk, z-lib.sk).pdf.md",
+    "30 - 资源/微信读书/文化苦旅.md",
+    "龙族Ⅴ：悼亡者的归来.md",
+    "明朝那些事儿（全集）.md"
   ]
 }
