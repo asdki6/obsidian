@@ -206,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -228,7 +228,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "6a8bb0b170d4f64a",
+  "active": "ed97bebae7beafe6",
   "lastOpenFiles": [
     "karpathy/llm-wiki.md",
     "karpathy/CLAUDE.md",
