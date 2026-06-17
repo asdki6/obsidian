@@ -11,10 +11,14 @@
             "id": "1cd60c69f4493b88",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "karpathy/wiki/log.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "log"
             }
           }
         ]
