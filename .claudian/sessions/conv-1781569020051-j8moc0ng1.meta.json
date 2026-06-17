@@ -1,27 +1,24 @@
 {
   "id": "conv-1781569020051-j8moc0ng1",
   "providerId": "claude",
-  "title": "你是哪个模型",
-  "titleGenerationStatus": "failed",
+  "title": "Fetch starred GitHub repos into Obsidian",
+  "titleGenerationStatus": "success",
   "createdAt": 1781569020062,
-  "updatedAt": 1781625248219,
-  "lastResponseAt": 1781625248219,
-  "sessionId": "129b8e11-03fb-4822-a4e8-19994c9eb858",
+  "updatedAt": 1781570704492,
+  "lastResponseAt": 1781570704492,
+  "sessionId": "3833a0e3-31a6-4960-ad25-16187891e127",
   "providerState": {
-    "providerSessionId": "129b8e11-03fb-4822-a4e8-19994c9eb858",
-    "previousProviderSessionIds": [
-      "3833a0e3-31a6-4960-ad25-16187891e127"
-    ]
+    "providerSessionId": "3833a0e3-31a6-4960-ad25-16187891e127"
   },
   "currentNote": "CLAUDE.md",
   "usage": {
-    "model": "opus",
-    "inputTokens": 329,
+    "model": "haiku",
+    "inputTokens": 832,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 58112,
-    "contextWindow": 1000000,
-    "contextTokens": 58441,
-    "percentage": 6,
+    "cacheReadInputTokens": 142464,
+    "contextWindow": 200000,
+    "contextTokens": 143296,
+    "percentage": 72,
     "contextWindowIsAuthoritative": true
   }
 }
