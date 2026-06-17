@@ -4,8 +4,8 @@
   "title": "Integrate knowledge base system into Karpathy",
   "titleGenerationStatus": "success",
   "createdAt": 1781674211918,
-  "updatedAt": 1781703195061,
-  "lastResponseAt": 1781703195061,
+  "updatedAt": 1781703215891,
+  "lastResponseAt": 1781703215891,
   "sessionId": "efb9add3-1990-4e42-be48-64ddb5bacfb4",
   "providerState": {
     "providerSessionId": "efb9add3-1990-4e42-be48-64ddb5bacfb4",
@@ -1030,11 +1030,11 @@
   "currentNote": "llm-wiki.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 469,
+    "inputTokens": 84,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 138880,
+    "cacheReadInputTokens": 140672,
     "contextWindow": 1000000,
-    "contextTokens": 139349,
+    "contextTokens": 140756,
     "percentage": 14,
     "contextWindowIsAuthoritative": true
   }
