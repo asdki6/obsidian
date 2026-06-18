@@ -38,4 +38,7 @@ updated: 2026-06-18
 - [[../concepts/概念_AI_Agent学习路径]]
 
 ## 关联文件
-- 原始分析：[[karpathy/raw/articles/ai/Claude_Code_源码泄露分析_2026]]
+- 原始分析：[[karpathy/raw/articles/ai/Claude_Code_源码泄露分析_2026.md]]
+
+## 所属目录
+- [[README|sources/]] · [[../README|wiki/]]

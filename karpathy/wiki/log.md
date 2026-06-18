@@ -38,3 +38,11 @@ type: log
 - 更新实体页：`实体_Claude_Code`（补充技术架构、BUDDY/KAIROS等未发布功能）
 - 更新 `karpathy/wiki/index.md`：22个页面条目（11 来源）
 - 受影响页面：2 个新建 + 2 个更新
+
+## [2026-06-18] lint | 链接修复 + 补充缺失页面
+- 修复：`概念_AI第二大脑`/`概念_上下文工程` 中 `[[wiki/index.md]]` → `[[../index]]`
+- 新建概念页（4个）：`概念_LLM_Wiki`、`概念_本地优先`、`概念_Smart_Connections`、`概念_Obsidian_Copilot`
+- 新建实体页（1个）：`实体_Ollama`
+- 删除 translations 下多余翻译文件（保留 cn）
+- 更新 `karpathy/wiki/index.md`：28个页面条目（11来源 + 5实体 + 11概念 + 1对比 + 1综述）
+- 受影响页面：6 新建 + 2 修复 + 1 更新（index.md）

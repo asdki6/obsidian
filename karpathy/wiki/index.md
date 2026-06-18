@@ -6,7 +6,7 @@ updated: 2026-06-18
 # Wiki 内容索引
 
 > 最后更新：2026-06-18
-> 页面总数：22
+> 页面总数：28
 
 ## 来源摘要（sources/）
 
@@ -32,6 +32,7 @@ updated: 2026-06-18
 | [[entities/实体_Claude_Code]] | AI Agent | Anthropic的CLI代理，通过MCP直读写Obsidian vault |
 | [[entities/实体_Notion]] | 软件 | 云端协作平台，团队协作强但AI灵活性不如Obsidian |
 | [[entities/实体_Karpathy_系列项目]] | 开源项目集 | micrograd→nanoGPT→llm.c，以最简代码讲透深度学习核心 |
+| [[entities/实体_Ollama]] | 软件 | 本地运行大语言模型的开源工具，隐私零泄露 |
 
 ## 概念（concepts/）
 
@@ -44,6 +45,10 @@ updated: 2026-06-18
 | [[concepts/概念_项目驱动学习]] | 学习方法论 | 通过构建实际项目掌握技能，LLM大幅降低门槛 |
 | [[concepts/概念_AI_Agent学习路径]] | AI/学习 | Python→LLM→Agent→多Agent的推荐学习链路 |
 | [[concepts/概念_CS自学体系]] | CS/学习 | 学习大纲 + 路线图 + 项目实战的完整自学方法论 |
+| [[concepts/概念_LLM_Wiki]] | KM | Karpathy提出：LLM主动维护持久化知识层，而非每次从零RAG |
+| [[concepts/概念_本地优先]] | 理念 | 数据存于本地设备，不被云服务锁定，Markdown 即标准 |
+| [[concepts/概念_Smart_Connections]] | 插件 | Obsidian 最流行的 RAG 对话插件 |
+| [[concepts/概念_Obsidian_Copilot]] | 插件 | 多模型 AI 助手，Claude/GPT/Gemini/Ollama 切换 |
 
 ## 比较（comparisons/）
 
