@@ -12,7 +12,7 @@ id: 05acbaf9-eef3-446d-be6b-fa6c06020fa5
 > 
 > **说明**：如果访问 GitHub 比较慢的话，可以关注我的知乎账号（[**Python-Jack**](https://www.zhihu.com/people/jackfrued)），上面的[“**从零开始学Python**”](https://zhuanlan.zhihu.com/c_1216656665569013760)专栏（对应本项目前 20 天的内容）比较适合初学者，其他的专栏如“[**数据思维和统计思维**](https://www.zhihu.com/column/c_1620074540456964096)”、“[**基于Python的数据分析**](https://www.zhihu.com/column/c_1217746527315496960)”、“[**说走就走的AI之旅**](https://www.zhihu.com/column/c_1628900668109946880)”等也在持续更新中，欢迎大家关注、点赞和评论。目前免费的 QQ 交流群已经人满为患，消息太杂乱也没有办法一一回复，如果有一起打卡学习或付费咨询的需求，可以加入付费交流群，新用户可以通过下方二维码付费之后添加我的私人微信（微信号：**jackfrued**），然后邀请大家进入付费学习打卡群，添加微信时请备注好自己的称呼和需求，我会为大家提供力所能及的帮助。
 > 
-> [![Image](https://github.com/jackfrued/Python-100-Days/raw/master/res/pay_qr_code.png)](/jackfrued/Python-100-Days/blob/master/res/pay_qr_code.png)
+> ![[笔记同步助手/images/a363f4eee52cce122d8d1af6073bace1_MD5.png|Image]]
 > 
 > 本项目对应的部分视频已经同步到 [Bilibili](https://space.bilibili.com/1177252794)，有兴趣的小伙伴可以点赞、投币、关注，一键三连支持一下！
 
@@ -1027,7 +1027,7 @@ Python在以下领域都有用武之地。
         > -   **客户合作** 高于 合同谈判
         > -   **响应变化** 高于 遵循计划
         
-        [![Image](https://github.com/jackfrued/Python-100-Days/raw/master/res/agile-scrum-sprint-cycle.png)](/jackfrued/Python-100-Days/blob/master/res/agile-scrum-sprint-cycle.png)
+        ![[笔记同步助手/images/cfa0b1b2ad16695f3828b8837f991368_MD5.png|Image]]
         
         > 角色：产品所有者（决定做什么，能对需求拍板的人）、团队负责人（解决各种问题，专注如何更好的工作，屏蔽外部对开发团队的影响）、开发团队（项目执行人员，具体指开发人员和测试人员）。
         
@@ -1041,11 +1041,11 @@ Python在以下领域都有用武之地。
     
     -   团队的构成和角色
         
-        [![company_architecture](https://github.com/jackfrued/Python-100-Days/raw/master/res/company_architecture.png)](/jackfrued/Python-100-Days/blob/master/res/company_architecture.png)
+        ![[笔记同步助手/images/44a7089995835b1b3b1875dbad27432e_MD5.png|company_architecture]]
         
     -   编程规范和代码审查（`flake8`、`pylint`）
         
-        [![Image](https://github.com/jackfrued/Python-100-Days/raw/master/res/pylint.png)](/jackfrued/Python-100-Days/blob/master/res/pylint.png)
+        ![[笔记同步助手/images/557409a29ecce02921076255dcb58e00_MD5.png|Image]]
         
     -   Python中的一些“惯例”（请参考[《Python惯例-如何编写Pythonic的代码》](/jackfrued/Python-100-Days/blob/master/%E7%95%AA%E5%A4%96%E7%AF%87/Python%E7%BC%96%E7%A8%8B%E6%83%AF%E4%BE%8B.md)）
         
@@ -1084,7 +1084,7 @@ Python在以下领域都有用武之地。
     -   模块划分：画思维导图（XMind），每个模块是一个枝节点，每个具体的功能是一个叶节点（用动词表述），需要确保每个叶节点无法再生出新节点，确定每个叶子节点的重要性、优先级和工作量。
     -   任务分配：由项目负责人根据上面的指标为每个团队成员分配任务。
     
-    [![Image](https://github.com/jackfrued/Python-100-Days/raw/master/res/requirements_by_xmind.png)](/jackfrued/Python-100-Days/blob/master/res/requirements_by_xmind.png)
+    ![[笔记同步助手/images/4273c04003a83af223c2399e6c1e6a37_MD5.png|Image]]
     
 3.  制定项目进度表（每日更新）
     
@@ -1100,7 +1100,7 @@ Python在以下领域都有用武之地。
 
 -   UML（统一建模语言）的类图
     
-    [![uml](https://github.com/jackfrued/Python-100-Days/raw/master/res/uml-class-diagram.png)](/jackfrued/Python-100-Days/blob/master/res/uml-class-diagram.png)
+    ![[笔记同步助手/images/3f866a475e4217292b1a3b93f46792b2_MD5.jpg|uml]]
     
 -   通过模型创建表（正向工程），例如在Django项目中可以通过下面的命令创建二维表。
     
@@ -1109,7 +1109,7 @@ Python在以下领域都有用武之地。
     
 -   使用PowerDesigner绘制物理模型图。
     
-    [![Image](https://github.com/jackfrued/Python-100-Days/raw/master/res/power-designer-pdm.png)](/jackfrued/Python-100-Days/blob/master/res/power-designer-pdm.png)
+    ![[笔记同步助手/images/d6a8538541184bc55670a9cdef3e1d28_MD5.png|Image]]
     
 -   通过数据表创建模型（反向工程），例如在Django项目中可以通过下面的命令生成模型。
     

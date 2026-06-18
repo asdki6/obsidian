@@ -1041,11 +1041,11 @@ Python在以下领域都有用武之地。
     
     -   团队的构成和角色
         
-        [![company_architecture](https://github.com/jackfrued/Python-100-Days/raw/master/res/company_architecture.png)](/jackfrued/Python-100-Days/blob/master/res/company_architecture.png)
+        ![[笔记同步助手/images/44a7089995835b1b3b1875dbad27432e_MD5.png|company_architecture]]
         
     -   编程规范和代码审查（`flake8`、`pylint`）
         
-        [![Image](https://github.com/jackfrued/Python-100-Days/raw/master/res/pylint.png)](/jackfrued/Python-100-Days/blob/master/res/pylint.png)
+        ![[笔记同步助手/images/557409a29ecce02921076255dcb58e00_MD5.png|Image]]
         
     -   Python中的一些“惯例”（请参考[《Python惯例-如何编写Pythonic的代码》](/jackfrued/Python-100-Days/blob/master/%E7%95%AA%E5%A4%96%E7%AF%87/Python%E7%BC%96%E7%A8%8B%E6%83%AF%E4%BE%8B.md)）
         
@@ -1084,7 +1084,7 @@ Python在以下领域都有用武之地。
     -   模块划分：画思维导图（XMind），每个模块是一个枝节点，每个具体的功能是一个叶节点（用动词表述），需要确保每个叶节点无法再生出新节点，确定每个叶子节点的重要性、优先级和工作量。
     -   任务分配：由项目负责人根据上面的指标为每个团队成员分配任务。
     
-    [![Image](https://github.com/jackfrued/Python-100-Days/raw/master/res/requirements_by_xmind.png)](/jackfrued/Python-100-Days/blob/master/res/requirements_by_xmind.png)
+    ![[笔记同步助手/images/4273c04003a83af223c2399e6c1e6a37_MD5.png|Image]]
     
 3.  制定项目进度表（每日更新）
     
@@ -1100,7 +1100,7 @@ Python在以下领域都有用武之地。
 
 -   UML（统一建模语言）的类图
     
-    [![uml](https://github.com/jackfrued/Python-100-Days/raw/master/res/uml-class-diagram.png)](/jackfrued/Python-100-Days/blob/master/res/uml-class-diagram.png)
+    ![[笔记同步助手/images/3f866a475e4217292b1a3b93f46792b2_MD5.jpg|uml]]
     
 -   通过模型创建表（正向工程），例如在Django项目中可以通过下面的命令创建二维表。
     
@@ -1109,7 +1109,7 @@ Python在以下领域都有用武之地。
     
 -   使用PowerDesigner绘制物理模型图。
     
-    [![Image](https://github.com/jackfrued/Python-100-Days/raw/master/res/power-designer-pdm.png)](/jackfrued/Python-100-Days/blob/master/res/power-designer-pdm.png)
+    ![[笔记同步助手/images/d6a8538541184bc55670a9cdef3e1d28_MD5.png|Image]]
     
 -   通过数据表创建模型（反向工程），例如在Django项目中可以通过下面的命令生成模型。
     
