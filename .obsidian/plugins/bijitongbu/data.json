@@ -57,6 +57,10 @@
     "desktop-mqfyh9v2-b6h1": {
       "frequency": 0,
       "syncOnStart": true
+    },
+    "mobile-mqfyjc6w-hxs9": {
+      "frequency": 0,
+      "syncOnStart": false
     }
   },
   "deviceAutoSyncMigrated": true,
