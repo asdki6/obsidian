@@ -31,3 +31,10 @@ type: log
 - 新建学习笔记：`GitHub日常学习/obsidian/stars/learning/Python-100-Days.md`
 - 更新 `karpathy/wiki/index.md`：21个页面条目（10 来源）
 - 受影响页面：1 个新建 + 1 个更新（index.md）
+
+## [2026-06-18] ingest | Claude Code 源码泄露事件
+- 新建原始来源：`karpathy/raw/articles/ai/Claude_Code_源码泄露分析_2026.md`
+- 新建来源摘要页：`karpathy/wiki/sources/来源_Claude_Code_源码泄露_2026.md`
+- 更新实体页：`实体_Claude_Code`（补充技术架构、BUDDY/KAIROS等未发布功能）
+- 更新 `karpathy/wiki/index.md`：22个页面条目（11 来源）
+- 受影响页面：2 个新建 + 2 个更新

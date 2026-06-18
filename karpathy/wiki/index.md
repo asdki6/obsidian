@@ -6,12 +6,13 @@ updated: 2026-06-18
 # Wiki 内容索引
 
 > 最后更新：2026-06-18
-> 页面总数：21
+> 页面总数：22
 
 ## 来源摘要（sources/）
 
 | 页面 | 一句话摘要 | 关联数 |
 |------|-----------|:------:|
+| [[sources/来源_Claude_Code_源码泄露_2026]] | 512K行TypeScript源码意外公开，揭示BUDDY/KAIROS/Undercover等未发布功能 | 3 |
 | [[sources/来源_Obsidian_AI_第二大腦指南_2026]] | Obsidian AI第二大腦完整指南：AI插件横评、Claude Code+MCP整合、Notion对比 | 7 |
 | [[sources/来源_GitHub_Stars_project-based-learning]] | 项目驱动编程学习教程合集，269k ⭐ | 2 |
 | [[sources/来源_GitHub_Stars_developer-roadmap]] | 开发者成长路线图大全，358k ⭐ | 2 |

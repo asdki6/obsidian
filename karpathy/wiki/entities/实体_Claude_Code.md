@@ -34,6 +34,19 @@ updated: 2026-06-17
 - 可按用户指令创建、修改、组织笔记
 - 结合 Obsidian CLI 可利用 graph、反向链接等元数据
 
+### 技术架构（2026.3 源码泄露揭示）
+- **语言**：TypeScript 6.0+，**运行时**：Bun → Node.js ≥18
+- **终端 UI**：React + Ink，**验证**：Zod
+- **核心**：QueryEngine.ts（~46,000 行）
+- **三层上下文压缩**：reactive → micro → trimmed
+
+### 未发布功能（源码泄露发现）
+- **BUDDY**：18 种 AI 虚拟宠物，5 维属性系统
+- **KAIROS**：持久化自主 Agent，夜间"做梦"整理记忆
+- **Undercover Mode**：自动隐藏 AI 身份（员工专用）
+- **ULTRAPLAN**：Opus 驱动的 30 分钟深度规划
+- **Coordinator Mode**：多 Agent 并行 + 邮箱系统
+
 ### 与其他 AI 方案对比
 - vs Obsidian 插件（Smart Connections/Copilot）：Claude Code 更灵活、可执行复杂多步操作，但需要终端操作
 - vs ChatGPT 文件上传：Claude Code 直接操作本地文件，无需上传，隐私更好
@@ -43,6 +56,11 @@ updated: 2026-06-17
 - 2024：Claude Code 发布
 - 2025：MCP 协议广泛采用，obsidian-mcp-server 出现
 - 2026：Claude Code + Obsidian 成为 AI 第二大脑的主流方案
+- 2026-03-31：源码意外泄露（npm source map），揭示内部架构和未发布功能
+
+## 关联来源
+- [[../sources/来源_Claude_Code_源码泄露_2026]]
+- [[../sources/来源_Obsidian_AI_第二大腦指南_2026]]
 
 ## 关联概念
 - [[../concepts/概念_MCP协议]]

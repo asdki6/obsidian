@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9c3431a46e07fd25",
+        "id": "c95ec81bcb992255",
         "type": "tabs",
         "children": [
           {
-            "id": "bc2434f4d5a72b5b",
+            "id": "643a64120e33414e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "karpathy/wiki/sources/来源_Obsidian_AI_第二大腦指南_2026.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "来源_Obsidian_AI_第二大腦指南_2026"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "第二大脑",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,17 +175,7 @@
             }
           },
           {
-            "id": "6505411fb8afcfcd",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "ed97bebae7beafe6",
+            "id": "061f74f0a48e817e",
             "type": "leaf",
             "state": {
               "type": "claudian-view",
@@ -191,7 +185,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -199,9 +193,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-weread-plugin:打开微信读书书架": false,
-      "bijitongbu:tongbuzhushou": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -210,56 +201,57 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "bc2434f4d5a72b5b",
+  "active": "6a8bb0b170d4f64a",
   "lastOpenFiles": [
-    "GitHub日常学习/obsidian/stars/learning/coding-interview-university/translations/how-to.md",
-    "GitHub日常学习/obsidian/stars/learning/coding-interview-university/translations/README-cn.md",
-    "GitHub日常学习/obsidian/stars/learning/coding-interview-university/translations/README-af.md",
-    "GitHub日常学习/obsidian/stars/learning/coding-interview-university/translations/README-bg.md",
-    "GitHub日常学习/obsidian/stars/learning/coding-interview-university/translations/README-ar.md",
-    "GitHub日常学习/obsidian/stars/learning/coding-interview-university/README.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/Day61-65/63.并发编程在爬虫中的应用.md",
-    "GitHub日常学习/obsidian/stars/learning/coding-interview-university/translations/README-ur.md",
-    "GitHub日常学习/obsidian/stars/learning/project-based-learning.md",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days.md",
-    "karpathy/wiki/sources/来源_GitHub_Stars_Python-100-Days.md",
-    "karpathy/wiki/index.md",
-    "karpathy/wiki/sources/README.md",
-    "karpathy/CLAUDE.md",
-    "karpathy/wiki/log.md.tmp.45440.dd6c867d4830",
-    "karpathy/wiki/index.md.tmp.45440.41bebe16c6c0",
-    "GitHub日常学习/obsidian/stars/learning/Python-100-Days.md.tmp.45440.542705b5ad7d",
-    "karpathy/wiki/log.md",
-    "karpathy/wiki/README.md",
-    "karpathy/wiki/sources/来源_GitHub_Stars_agency-agents.md",
+    "karpathy/wiki/log.md.tmp.46124.facabae1bb2b",
+    "karpathy/wiki/index.md.tmp.46124.227dbd91438a",
+    "karpathy/wiki/entities/实体_Claude_Code.md.tmp.46124.34e7c0538783",
+    "karpathy/wiki/sources/来源_Claude_Code_源码泄露_2026.md",
+    "karpathy/raw/articles/ai/Claude_Code_源码泄露分析_2026.md",
+    "karpathy/wiki/concepts/概念_项目驱动学习.md",
+    "karpathy/wiki/concepts/概念_上下文工程.md",
+    "karpathy/wiki/concepts/概念_RAG检索增强生成.md",
+    "karpathy/wiki/concepts/概念_MCP协议.md",
     "karpathy/wiki/concepts/概念_CS自学体系.md",
     "karpathy/wiki/concepts/概念_AI第二大脑.md",
-    "karpathy/wiki/sources/来源_GitHub_Stars_project-based-learning.md",
     "karpathy/wiki/concepts/概念_AI_Agent学习路径.md",
-    "GitHub日常学习/obsidian/stars/⭐ Karpathy 专题.md",
-    "karpathy/wiki/log.md.tmp.45440.d3d9d7c92c8e",
+    "karpathy/wiki/concepts/README.md",
+    "karpathy/wiki/concepts",
+    "karpathy/wiki/concepts_backup/概念_上下文工程.md",
+    "karpathy/wiki/concepts_backup/概念_项目驱动学习.md",
+    "karpathy/wiki/concepts_backup/概念_MCP协议.md",
+    "karpathy/wiki/concepts_backup/概念_RAG检索增强生成.md",
+    "karpathy/wiki/concepts_backup/概念_AI第二大脑.md",
+    "karpathy/wiki/concepts_backup/概念_CS自学体系.md",
+    "karpathy/wiki/concepts_backup/README.md",
+    "karpathy/wiki/concepts_backup/概念_AI_Agent学习路径.md",
+    "karpathy/wiki/concepts_backup",
+    "karpathy/wiki/overview/_占位.md",
+    "karpathy/wiki/overview/README.md",
+    "karpathy/wiki/overview",
+    "karpathy/wiki/comparisons/_占位.md",
+    "karpathy/wiki/comparisons/README.md",
+    "karpathy/wiki/comparisons",
+    "karpathy/wiki/entities/实体_Notion.md",
     "karpathy/wiki/entities/实体_Karpathy_系列项目.md",
-    "karpathy/wiki/entities/实体_Karpathy_系列项目.md.tmp.45440.317a24c2203c",
-    "karpathy/wiki/concepts/概念_AI_Agent学习路径.md.tmp.45440.f7580a65436b",
-    "karpathy/wiki/concepts/概念_项目驱动学习.md",
-    "karpathy/wiki/sources/来源_GitHub_Stars_dive-into-llms.md",
-    "karpathy/wiki/sources/来源_GitHub_Stars_hello-agents.md",
-    "karpathy/wiki/sources/来源_GitHub_Stars_developer-roadmap.md.tmp.45440.59f93d5e0dcb",
-    "GitHub日常学习/obsidian/stars/learning/index.md.tmp.45440.c01757663bf8",
-    "GitHub日常学习/obsidian/stars/learning/hello-agents.md.tmp.45440.3791d00e2fa9",
-    "GitHub日常学习/obsidian/stars/learning/agency-agents.md.tmp.45440.0fe319913171",
-    "GitHub日常学习/obsidian/stars/learning/micrograd/puppy.jpg",
-    "GitHub日常学习/obsidian/stars/learning/micrograd/moon_mlp.png",
-    "GitHub日常学习/obsidian/stars/learning/micrograd/gout.svg",
+    "karpathy/wiki/entities/实体_Obsidian.md",
+    "karpathy/wiki/entities",
+    "karpathy/wiki/sources",
+    "karpathy/raw/papers/cs",
+    "karpathy/raw/papers/other",
     "GitHub日常学习/obsidian/stars/learning/nanoGPT/assets/nanogpt.jpg",
     "GitHub日常学习/obsidian/stars/learning/nanoGPT/assets/gpt2_124M_loss.png",
-    "GitHub日常学习/obsidian/stars/learning/hello-agents/Co-creation-projects/939147533-DatabaseAgent/img.png",
-    "GitHub日常学习/obsidian/stars/learning/hello-agents/Co-creation-projects/tino-chen-HelloClaw/frontend/src/assets/logo.svg",
-    "GitHub日常学习/obsidian/stars/learning/hello-agents/Co-creation-projects/tino-chen-HelloClaw/frontend/src/assets/lobster.svg",
-    "GitHub日常学习/obsidian/stars/learning/hello-agents/Co-creation-projects/usernamedadad-AutoFlow/data/images/demo-inspire-mode.png",
-    "GitHub日常学习/obsidian/stars/learning/hello-agents/Co-creation-projects/usernamedadad-AutoFlow/data/images/demo-create-mode.png"
+    "blink/Attachments/Pasted image 20260410195907.png",
+    "blink/Attachments/Pasted image 20260410195828.png",
+    "blink/Attachments/539.jpg",
+    "blink/Attachments/Pasted image 20260410195804.png",
+    "blink/Attachments/Pasted image 20260410195715.png",
+    "blink/Attachments/Pasted image 20260410195644.png",
+    "GitHub日常学习/obsidian/stars/learning/build-your-own-x/codecrafters-banner.png",
+    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/Day66-80/res/3d_surface_chart.png"
   ]
 }
