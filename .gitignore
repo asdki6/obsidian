@@ -2,6 +2,15 @@
 # LLM Wiki Obsidian Vault — .gitignore
 # ============================================
 
+# --- Obsidian 工作区（每设备不同，不追踪） ---
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/workspace-desktop.json
+
+# --- AI 助手会话（每次对话都变） ---
+.claude/
+.claudian/sessions/
+
 # --- 临时文件 / 草稿 ---
 未命名*.md
 手机测试*.md
@@ -17,13 +26,6 @@ desktop.ini
 # --- 嵌套旧 vault（防止多设备残留） ---
 GitHub/
 Obsidian Vault/
-
-# --- Obsidian 工作区缓存（每次打开都变，无需提交） ---
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-
-# --- Claude 会话缓存（可选忽略，保留 schema 即可） ---
-# .claudian/sessions/*.meta.json
 
 # --- Node / Python 残留 ---
 node_modules/
