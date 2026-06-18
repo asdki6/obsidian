@@ -42,8 +42,8 @@ micrograd → nn-zero-to-hero → nanoGPT → llm.c
 Karpathy 的系列项目是 `build-your-own-x` 哲学的最佳范例——不是读论文，而是自己写一遍。
 
 ## 关联概念
-- [[../concepts/概念_项目驱动学习]]
-- [[../concepts/概念_LLM_Wiki]]
+- [[../../concepts/learning/概念_项目驱动学习]]
+- [[../../concepts/ai-km/概念_LLM_Wiki]]
 
 ## 所属目录
-- [[README|entities/]] · [[../README|wiki/]]
+- [[../../entities/README|entities/]] · [[../../../README|wiki/]]

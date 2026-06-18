@@ -29,7 +29,7 @@ created: 2026-06-18
 Python-100-Days 是整个 AI 学习链的起点——从这里进入，然后可以分流到 dive-into-llms（AI 方向）或 coding-interview-university（CS 方向）。
 
 ## Wiki 关联
-- 来源摘要：[[karpathy/wiki/sources/来源_GitHub_Stars_Python-100-Days]]
+- 来源摘要：[[karpathy/wiki/sources/github-stars/来源_GitHub_Stars_Python-100-Days]]
 
 ## 所属目录
 - [[index|learning/]]

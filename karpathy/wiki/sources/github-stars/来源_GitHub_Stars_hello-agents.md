@@ -30,10 +30,10 @@ updated: 2026-06-18
 4. **与 LLM Wiki 的关联**：Ingest 注入知识、Query 验证理解、Lint 修正错误——正是 Agent 学习的闭环
 
 ## 关联概念
-- [[../concepts/概念_AI_Agent学习路径]]
+- [[../../concepts/ai-km/概念_AI_Agent学习路径]]
 
 ## 关联文件
 - 学习笔记：[[GitHub日常学习/obsidian/stars/learning/hello-agents]]
 
 ## 所属目录
-- [[README|sources/]] · [[../README|wiki/]]
+- [[../../sources/README|sources/]] · [[../../../README|wiki/]]

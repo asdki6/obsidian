@@ -24,7 +24,7 @@ created: 2026-06-18
 有了 LLM 辅助，"自己造轮子"的门槛大幅降低——AI 可以解释架构、提供骨架代码、debug。这个仓库 + LLM = 最高效的底层学习路径。
 
 ## Wiki 关联
-- 来源摘要：[[karpathy/wiki/sources/来源_GitHub_Stars_build-your-own-x]]
+- 来源摘要：[[karpathy/wiki/sources/github-stars/来源_GitHub_Stars_build-your-own-x]]
 
 ## 所属目录
 - [[index|learning/]]

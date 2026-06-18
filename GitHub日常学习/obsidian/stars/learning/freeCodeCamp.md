@@ -24,7 +24,7 @@ created: 2026-06-18
 freeCodeCamp 证明了**结构化课程 + 开源协作**的学习模式——LLM Wiki 也可以朝这个方向演进：从"个人维基"到"AI 辅助的结构化课程"。
 
 ## Wiki 关联
-- 来源摘要：[[karpathy/wiki/sources/来源_GitHub_Stars_freeCodeCamp]]
+- 来源摘要：[[karpathy/wiki/sources/github-stars/来源_GitHub_Stars_freeCodeCamp]]
 
 ## 所属目录
 - [[index|learning/]]

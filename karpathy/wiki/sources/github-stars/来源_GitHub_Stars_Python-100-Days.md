@@ -32,12 +32,12 @@ updated: 2026-06-18
 5. **AI 学习链的起点**：Python → dive-into-llms → hello-agents 是完整的 AI 学习路径
 
 ## 关联概念
-- [[../concepts/概念_项目驱动学习]]
-- [[../concepts/概念_AI_Agent学习路径]]
-- [[../concepts/概念_CS自学体系]]
+- [[../../concepts/learning/概念_项目驱动学习]]
+- [[../../concepts/ai-km/概念_AI_Agent学习路径]]
+- [[../../concepts/learning/概念_CS自学体系]]
 
 ## 关联文件
 - 学习笔记：[[GitHub日常学习/obsidian/stars/learning/Python-100-Days]]
 
 ## 所属目录
-- [[README|sources/]] · [[../README|wiki/]]
+- [[../../sources/README|sources/]] · [[../../../README|wiki/]]

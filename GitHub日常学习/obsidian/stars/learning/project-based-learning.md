@@ -24,7 +24,7 @@ created: 2026-06-18
 这个仓库本身就是一个**人类维护的 Wiki**——分类清晰、交叉引用密集。LLM Wiki 模式把这种维护工作交给了 AI。
 
 ## Wiki 关联
-- 来源摘要：[[karpathy/wiki/sources/来源_GitHub_Stars_project-based-learning]]
+- 来源摘要：[[karpathy/wiki/sources/github-stars/来源_GitHub_Stars_project-based-learning]]
 
 ## 所属目录
 - [[index|learning/]]

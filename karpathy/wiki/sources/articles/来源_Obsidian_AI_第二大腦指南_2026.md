@@ -48,18 +48,18 @@ updated: 2026-06-17
 > 「你不需要在每次與 AI 對話時都從頭開始，而是讓它能夠存取你寫過的所有內容。」
 
 ## 关联实体
-- [[../entities/实体_Obsidian]]
-- [[../entities/实体_Claude_Code]]
-- [[../entities/实体_Notion]]
+- [[../../entities/tools/实体_Obsidian]]
+- [[../../entities/tools/实体_Claude_Code]]
+- [[../../entities/tools/实体_Notion]]
 
 ## 关联概念
-- [[../concepts/概念_AI第二大脑]]
-- [[../concepts/概念_上下文工程]]
-- [[../concepts/概念_MCP协议]]
-- [[../concepts/概念_RAG检索增强生成]]
+- [[../../concepts/ai-km/概念_AI第二大脑]]
+- [[../../concepts/ai-km/概念_上下文工程]]
+- [[../../concepts/ai-km/概念_MCP协议]]
+- [[../../concepts/ai-km/概念_RAG检索增强生成]]
 
 ## 关联文件
-- 原始来源：[[karpathy/raw/articles/ai/NxCode_Obsidian_AI_第二大腦指南_2026]]
+- 原始来源：[[articles/ai/NxCode_Obsidian_AI_第二大腦指南_2026]]
 
 ## 所属目录
-- [[README|sources/]] · [[../README|wiki/]]
+- [[../../sources/README|sources/]] · [[../../../README|wiki/]]

@@ -44,9 +44,9 @@ LLM Wiki 的三步操作本身就是 Agent 的工作模式：
 学习这个路径不仅是为了"用 AI"，更是为了理解 LLM Wiki 本身的运作机制。
 
 ## 关联来源
-- [[../sources/来源_GitHub_Stars_dive-into-llms]]
-- [[../sources/来源_GitHub_Stars_hello-agents]]
-- [[../sources/来源_GitHub_Stars_agency-agents]]
+- [[../../sources/github-stars/来源_GitHub_Stars_dive-into-llms]]
+- [[../../sources/github-stars/来源_GitHub_Stars_hello-agents]]
+- [[../../sources/github-stars/来源_GitHub_Stars_agency-agents]]
 
 ## 所属目录
-- [[README|concepts/]] · [[../README|wiki/]]
+- [[../../concepts/README|concepts/]] · [[../../../README|wiki/]]

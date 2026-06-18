@@ -58,7 +58,7 @@ updated: 2026-06-17
 - [[概念_上下文工程]]
 
 ## 关联实体
-- [[../entities/实体_Obsidian]]
+- [[../../entities/tools/实体_Obsidian]]
 
 ## 所属目录
-- [[README|concepts/]] · [[../README|wiki/]]
+- [[../../concepts/README|concepts/]] · [[../../../README|wiki/]]

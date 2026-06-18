@@ -47,11 +47,11 @@ updated: 2026-06-17
 - 2025-2026：Obsidian CLI + MCP 支持，AI Agent 原生集成
 
 ## 关联概念
-- [[../concepts/概念_AI第二大脑]]
-- [[../concepts/概念_MCP协议]]
-- [[../concepts/概念_上下文工程]]
-- [[../concepts/概念_本地优先]]
-- [[../concepts/概念_LLM_Wiki]]
+- [[../../concepts/ai-km/概念_AI第二大脑]]
+- [[../../concepts/ai-km/概念_MCP协议]]
+- [[../../concepts/ai-km/概念_上下文工程]]
+- [[../../concepts/ai-km/概念_本地优先]]
+- [[../../concepts/ai-km/概念_LLM_Wiki]]
 
 ## 关联实体
 - [[实体_Claude_Code]]
@@ -63,4 +63,4 @@ updated: 2026-06-17
 - 已按照 Karpathy LLM Wiki 模式搭建知识库架构
 
 ## 所属目录
-- [[README|entities/]] · [[../README|wiki/]]
+- [[../../entities/README|entities/]] · [[../../../README|wiki/]]

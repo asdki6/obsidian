@@ -26,7 +26,7 @@ created: 2026-06-18
 这个仓库本质上是一个**高度结构化的学习大纲**（syllabus）——这正是 LLM Wiki 中 overvew 页面的范式：为一个大主题提供导航地图 + 学习路径 + 资源索引。
 
 ## Wiki 关联
-- 来源摘要：[[karpathy/wiki/sources/来源_GitHub_Stars_coding-interview-university]]
+- 来源摘要：[[karpathy/wiki/sources/github-stars/来源_GitHub_Stars_coding-interview-university]]
 
 ## 所属目录
 - [[index|learning/]]

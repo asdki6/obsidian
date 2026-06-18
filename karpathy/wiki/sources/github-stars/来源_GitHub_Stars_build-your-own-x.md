@@ -30,13 +30,13 @@ updated: 2026-06-18
 4. **与 Karpathy 的关联**：Karpathy 的 nanoGPT、micrograd、llm.c 正是这种哲学的极致实践
 
 ## 关联实体
-- [[../entities/实体_Karpathy_系列项目]]
+- [[../../entities/tools/实体_Karpathy_系列项目]]
 
 ## 关联概念
-- [[../concepts/概念_项目驱动学习]]
+- [[../../concepts/learning/概念_项目驱动学习]]
 
 ## 关联文件
 - 学习笔记：[[GitHub日常学习/obsidian/stars/learning/build-your-own-x]]
 
 ## 所属目录
-- [[README|sources/]] · [[../README|wiki/]]
+- [[../../sources/README|sources/]] · [[../../../README|wiki/]]

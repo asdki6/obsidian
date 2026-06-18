@@ -29,10 +29,10 @@ updated: 2026-06-18
 3. **与 LLM Wiki 操作模式的类比**：Ingest / Query / Lint 三种操作本质上是三个 Agent 角色，各自有专业流程
 
 ## 关联概念
-- [[../concepts/概念_AI_Agent学习路径]]
+- [[../../concepts/ai-km/概念_AI_Agent学习路径]]
 
 ## 关联文件
 - 学习笔记：[[GitHub日常学习/obsidian/stars/learning/agency-agents]]
 
 ## 所属目录
-- [[README|sources/]] · [[../README|wiki/]]
+- [[../../sources/README|sources/]] · [[../../../README|wiki/]]

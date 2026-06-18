@@ -26,7 +26,7 @@ created: 2026-06-18
 `dive-into-llms` + `hello-agents` + `build-your-own-x` 构成了一条完整的 AI 学习链：理解底层 → 构建智能体 → 自己造轮子。
 
 ## Wiki 关联
-- 来源摘要：[[karpathy/wiki/sources/来源_GitHub_Stars_dive-into-llms]]
+- 来源摘要：[[karpathy/wiki/sources/github-stars/来源_GitHub_Stars_dive-into-llms]]
 
 ## 所属目录
 - [[index|learning/]]

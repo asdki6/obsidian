@@ -33,4 +33,4 @@ updated: 2026-06-18
 - 学习笔记：[[GitHub日常学习/obsidian/stars/learning/freeCodeCamp]]
 
 ## 所属目录
-- [[README|sources/]] · [[../README|wiki/]]
+- [[../../sources/README|sources/]] · [[../../../README|wiki/]]

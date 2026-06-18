@@ -54,4 +54,4 @@ updated: 2026-06-17
 - [[实体_Claude_Code]]
 
 ## 所属目录
-- [[README|entities/]] · [[../README|wiki/]]
+- [[../../entities/README|entities/]] · [[../../../README|wiki/]]

@@ -29,5 +29,5 @@ updated: 2026-06-18
 - [[实体_Claude_Code]]
 
 ## 关联概念
-- [[../concepts/概念_本地优先]]
-- [[../concepts/概念_AI第二大脑]]
+- [[../../concepts/ai-km/概念_本地优先]]
+- [[../../concepts/ai-km/概念_AI第二大脑]]

@@ -57,8 +57,8 @@ AI Agent (Claude Code) ←→ MCP 协议 ←→ MCP Server ←→ 外部资源
 - [[概念_LLM_Wiki]]
 
 ## 关联实体
-- [[../entities/实体_Claude_Code]]
-- [[../entities/实体_Obsidian]]
+- [[../../entities/tools/实体_Claude_Code]]
+- [[../../entities/tools/实体_Obsidian]]
 
 ## 所属目录
-- [[README|concepts/]] · [[../README|wiki/]]
+- [[../../concepts/README|concepts/]] · [[../../../README|wiki/]]

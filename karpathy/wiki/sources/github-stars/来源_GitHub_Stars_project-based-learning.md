@@ -30,11 +30,11 @@ updated: 2026-06-18
 4. **领域完整**：Web 开发、游戏、CLI 工具、数据库等方向
 
 ## 关联概念
-- [[../concepts/概念_项目驱动学习]]
-- [[../concepts/概念_LLM_Wiki]]
+- [[../../concepts/learning/概念_项目驱动学习]]
+- [[../../concepts/ai-km/概念_LLM_Wiki]]
 
 ## 关联文件
 - 学习笔记：[[GitHub日常学习/obsidian/stars/learning/project-based-learning]]
 
 ## 所属目录
-- [[README|sources/]] · [[../README|wiki/]]
+- [[../../sources/README|sources/]] · [[../../../README|wiki/]]

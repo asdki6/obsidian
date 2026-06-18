@@ -30,11 +30,11 @@ updated: 2026-06-18
 4. **本质是知识结构的外化**：与 LLM Wiki 的 overview 页面功能一致——为领域画认知地图
 
 ## 关联概念
-- [[../concepts/概念_CS自学体系]]
-- [[../concepts/概念_上下文工程]]
+- [[../../concepts/learning/概念_CS自学体系]]
+- [[../../concepts/ai-km/概念_上下文工程]]
 
 ## 关联文件
 - 学习笔记：[[GitHub日常学习/obsidian/stars/learning/developer-roadmap]]
 
 ## 所属目录
-- [[README|sources/]] · [[../README|wiki/]]
+- [[../../sources/README|sources/]] · [[../../../README|wiki/]]

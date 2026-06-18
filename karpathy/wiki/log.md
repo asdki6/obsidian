@@ -46,3 +46,16 @@ type: log
 - 删除 translations 下多余翻译文件（保留 cn）
 - 更新 `karpathy/wiki/index.md`：28个页面条目（11来源 + 5实体 + 11概念 + 1对比 + 1综述）
 - 受影响页面：6 新建 + 2 修复 + 1 更新（index.md）
+
+## [2026-06-18] ingest | Markdown AI时代标准沟通语言
+- 新建原始来源：`karpathy/raw/articles/methodology/Markdown_AI时代标准语言_2026.md`
+- 新建来源摘要：`karpathy/wiki/sources/来源_Markdown_AI时代标准沟通语言_2026.md`
+- 更新 `karpathy/wiki/index.md`：29个页面条目（12 来源）
+- 受影响页面：2 新建 + 1 更新
+
+## [2026-06-18] refactor | Wiki 文件夹子分类重构
+- sources/ → sources/articles/（3篇）+ sources/github-stars/（10篇）
+- entities/ → entities/tools/（4个）+ entities/projects/（1个）
+- concepts/ → concepts/ai-km/（7个）+ concepts/learning/（2个）+ concepts/plugins/（2个）
+- 全局修复所有内部 wikilink + 外部 GitHub日常学习 链接
+- 更新 index.md 所有路径

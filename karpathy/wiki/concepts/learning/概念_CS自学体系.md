@@ -40,8 +40,8 @@ CS 自学体系          →    LLM Wiki 模式
 结构化的自学体系和结构化的知识库是同构的——**Wiki 就是你自己写的"学习大纲"**。
 
 ## 关联来源
-- [[../sources/来源_GitHub_Stars_coding-interview-university]]
-- [[../sources/来源_GitHub_Stars_developer-roadmap]]
+- [[../../sources/github-stars/来源_GitHub_Stars_coding-interview-university]]
+- [[../../sources/github-stars/来源_GitHub_Stars_developer-roadmap]]
 
 ## 所属目录
-- [[README|concepts/]] · [[../README|wiki/]]
+- [[../../concepts/README|concepts/]] · [[../../../README|wiki/]]

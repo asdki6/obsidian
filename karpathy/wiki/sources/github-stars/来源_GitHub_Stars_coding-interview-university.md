@@ -30,10 +30,10 @@ updated: 2026-06-18
 4. **本质是结构化大纲**：与 LLM Wiki 的 overview 页面功能一致——为一个大主题提供导航 + 路径 + 资源
 
 ## 关联概念
-- [[../concepts/概念_CS自学体系]]
+- [[../../concepts/learning/概念_CS自学体系]]
 
 ## 关联文件
 - 学习笔记：[[GitHub日常学习/obsidian/stars/learning/coding-interview-university]]
 
 ## 所属目录
-- [[README|sources/]] · [[../README|wiki/]]
+- [[../../sources/README|sources/]] · [[../../../README|wiki/]]

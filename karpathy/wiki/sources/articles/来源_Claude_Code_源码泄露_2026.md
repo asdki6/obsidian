@@ -30,15 +30,15 @@ updated: 2026-06-18
 6. **三层上下文压缩**：reactive → micro → trimmed
 
 ## 关联实体
-- [[../entities/实体_Claude_Code]]
+- [[../../entities/tools/实体_Claude_Code]]
 
 ## 关联概念
-- [[../concepts/概念_MCP协议]]
-- [[../concepts/概念_上下文工程]]
-- [[../concepts/概念_AI_Agent学习路径]]
+- [[../../concepts/ai-km/概念_MCP协议]]
+- [[../../concepts/ai-km/概念_上下文工程]]
+- [[../../concepts/ai-km/概念_AI_Agent学习路径]]
 
 ## 关联文件
-- 原始分析：[[karpathy/raw/articles/ai/Claude_Code_源码泄露分析_2026.md]]
+- 原始分析：[[articles/ai/Claude_Code_源码泄露分析_2026.md]]
 
 ## 所属目录
-- [[README|sources/]] · [[../README|wiki/]]
+- [[../../sources/README|sources/]] · [[../../../README|wiki/]]

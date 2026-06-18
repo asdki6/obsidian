@@ -24,7 +24,7 @@ created: 2026-06-18
 路线图本质上是**知识结构的外化**——LLM Wiki 里的 overvew 页面起的就是这个作用：为一个主题画出认知地图。
 
 ## Wiki 关联
-- 来源摘要：[[karpathy/wiki/sources/来源_GitHub_Stars_developer-roadmap]]
+- 来源摘要：[[karpathy/wiki/sources/github-stars/来源_GitHub_Stars_developer-roadmap]]
 
 ## 所属目录
 - [[index|learning/]]

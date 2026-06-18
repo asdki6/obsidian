@@ -24,7 +24,7 @@ created: 2026-06-18
 LLM Wiki 的 Ingest / Query / Lint 三种操作本质上也是**三个 Agent 角色**——各自有专业流程。agency-agents 展示了如何把这种分工体系化。
 
 ## Wiki 关联
-- 来源摘要：[[karpathy/wiki/sources/来源_GitHub_Stars_agency-agents]]
+- 来源摘要：[[karpathy/wiki/sources/github-stars/来源_GitHub_Stars_agency-agents]]
 
 ## 所属目录
 - [[index|learning/]]

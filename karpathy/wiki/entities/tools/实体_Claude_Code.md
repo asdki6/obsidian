@@ -59,14 +59,14 @@ updated: 2026-06-17
 - 2026-03-31：源码意外泄露（npm source map），揭示内部架构和未发布功能
 
 ## 关联来源
-- [[../sources/来源_Claude_Code_源码泄露_2026]]
-- [[../sources/来源_Obsidian_AI_第二大腦指南_2026]]
+- [[../../sources/articles/来源_Claude_Code_源码泄露_2026]]
+- [[../../sources/articles/来源_Obsidian_AI_第二大腦指南_2026]]
 
 ## 关联概念
-- [[../concepts/概念_MCP协议]]
-- [[../concepts/概念_AI第二大脑]]
-- [[../concepts/概念_上下文工程]]
-- [[../concepts/概念_LLM_Wiki]]
+- [[../../concepts/ai-km/概念_MCP协议]]
+- [[../../concepts/ai-km/概念_AI第二大脑]]
+- [[../../concepts/ai-km/概念_上下文工程]]
+- [[../../concepts/ai-km/概念_LLM_Wiki]]
 
 ## 关联实体
 - [[实体_Obsidian]]
@@ -78,4 +78,4 @@ updated: 2026-06-17
 - [[CLAUDE.md]] 是本 vault 的 Schema 文件，Claude Code 每次会话自动读取
 
 ## 所属目录
-- [[README|entities/]] · [[../README|wiki/]]
+- [[../../entities/README|entities/]] · [[../../../README|wiki/]]
