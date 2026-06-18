@@ -17,3 +17,17 @@ type: log
 - 新建概念页（4个）：`概念_AI第二大脑`、`概念_上下文工程`、`概念_MCP协议`、`概念_RAG检索增强生成`
 - 更新 `karpathy/wiki/index.md`：8个页面条目（1 来源 + 3 实体 + 4 概念）
 - 受影响页面总计：8 个新建 + 1 个更新（index.md）
+
+## [2026-06-18] ingest | GitHub Stars 批量摄入（8 个项目）
+- 新建来源摘要页（8个）：`来源_GitHub_Stars_project-based-learning`、`来源_GitHub_Stars_developer-roadmap`、`来源_GitHub_Stars_build-your-own-x`、`来源_GitHub_Stars_freeCodeCamp`、`来源_GitHub_Stars_agency-agents`、`来源_GitHub_Stars_coding-interview-university`、`来源_GitHub_Stars_hello-agents`、`来源_GitHub_Stars_dive-into-llms`
+- 新建实体页（1个）：`实体_Karpathy_系列项目`
+- 新建概念页（3个）：`概念_项目驱动学习`、`概念_AI_Agent学习路径`、`概念_CS自学体系`
+- 同步创建 `GitHub日常学习/obsidian/stars/learning/` 下 8 个学习笔记 + index.md
+- 更新 `karpathy/wiki/index.md`：20个页面条目（9 来源 + 4 实体 + 7 概念）
+- 受影响页面总计：12 个新建 + 1 个更新（index.md）
+
+## [2026-06-18] ingest | GitHub Stars Python-100-Days
+- 新建来源摘要页：`karpathy/wiki/sources/来源_GitHub_Stars_Python-100-Days.md`
+- 新建学习笔记：`GitHub日常学习/obsidian/stars/learning/Python-100-Days.md`
+- 更新 `karpathy/wiki/index.md`：21个页面条目（10 来源）
+- 受影响页面：1 个新建 + 1 个更新（index.md）

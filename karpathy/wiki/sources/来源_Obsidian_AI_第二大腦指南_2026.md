@@ -57,3 +57,9 @@ updated: 2026-06-17
 - [[../concepts/概念_上下文工程]]
 - [[../concepts/概念_MCP协议]]
 - [[../concepts/概念_RAG检索增强生成]]
+
+## 关联文件
+- 原始来源：[[karpathy/raw/articles/ai/NxCode_Obsidian_AI_第二大腦指南_2026]]
+
+## 所属目录
+- [[README|sources/]] · [[../README|wiki/]]

@@ -52,3 +52,6 @@ updated: 2026-06-17
 ## 关联实体
 - [[实体_Obsidian]]
 - [[实体_Claude_Code]]
+
+## 所属目录
+- [[README|entities/]] · [[../README|wiki/]]

@@ -59,3 +59,6 @@ updated: 2026-06-17
 
 ## 关联实体
 - [[../entities/实体_Obsidian]]
+
+## 所属目录
+- [[README|concepts/]] · [[../README|wiki/]]

@@ -58,3 +58,6 @@ updated: 2026-06-17
 ## 备注
 - 本 vault 通过 RealClaudian 插件使用 Claude Code（配置：Opus 模型、plan 模式、effort=max）
 - [[CLAUDE.md]] 是本 vault 的 Schema 文件，Claude Code 每次会话自动读取
+
+## 所属目录
+- [[README|entities/]] · [[../README|wiki/]]

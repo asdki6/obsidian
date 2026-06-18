@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "396e0d35982ea3dc",
+        "id": "9c3431a46e07fd25",
         "type": "tabs",
         "children": [
           {
-            "id": "1cd60c69f4493b88",
+            "id": "bc2434f4d5a72b5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "karpathy/wiki/log.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "log"
+              "title": "新标签页"
             }
           }
         ]
@@ -195,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -217,53 +213,53 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "1cd60c69f4493b88",
+  "active": "bc2434f4d5a72b5b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "karpathy/CLAUDE.md",
-    "karpathy/wiki/README.md",
-    "GitHub/obsidian/stars/stars/learning/hello-agents.md",
-    "GitHub/obsidian/stars/learning/index.md",
-    "GitHub/obsidian/stars/learning/python-100-days.md",
-    "GitHub/obsidian/stars/learning/project-based-learning.md",
-    "GitHub/obsidian/stars/stars/learning",
-    "GitHub/obsidian/stars/learning/hello-agents.md",
-    "GitHub/obsidian/stars/learning/dive-into-llms.md",
-    "GitHub/obsidian/stars/learning/freecodecamp.md",
-    "GitHub/obsidian/stars/learning/developer-roadmap.md",
-    "GitHub/obsidian/stars/learning/coding-interview-university.md",
-    "GitHub/obsidian/stars/learning/build-your-own-x.md",
-    "GitHub/obsidian/stars/learning/agency-agents.md",
-    "GitHub/obsidian/stars/stars",
-    "GitHub/obsidian/stars/learning",
-    "GitHub/obsidian/测试.md",
-    "GitHub/obsidian/stars",
-    "GitHub/obsidian/CLAUDE.md",
-    "GitHub/obsidian",
-    "GitHub",
-    "karpathy/raw/media/photos",
-    "karpathy/raw/papers/other",
-    "karpathy/raw/papers/cognitive-science",
-    "karpathy/raw/papers/cs",
-    "karpathy/raw/README.md",
-    "karpathy/wiki/log.md",
-    "karpathy/wiki/overview/README.md",
-    "karpathy/wiki/comparisons/README.md",
-    "karpathy/wiki/concepts/README.md",
-    "karpathy/wiki/entities/README.md",
+    "GitHub日常学习/obsidian/stars/learning/coding-interview-university/translations/how-to.md",
+    "GitHub日常学习/obsidian/stars/learning/coding-interview-university/translations/README-cn.md",
+    "GitHub日常学习/obsidian/stars/learning/coding-interview-university/translations/README-af.md",
+    "GitHub日常学习/obsidian/stars/learning/coding-interview-university/translations/README-bg.md",
+    "GitHub日常学习/obsidian/stars/learning/coding-interview-university/translations/README-ar.md",
+    "GitHub日常学习/obsidian/stars/learning/coding-interview-university/README.md",
+    "GitHub日常学习/obsidian/stars/learning/Python-100-Days/Day61-65/63.并发编程在爬虫中的应用.md",
+    "GitHub日常学习/obsidian/stars/learning/coding-interview-university/translations/README-ur.md",
+    "GitHub日常学习/obsidian/stars/learning/project-based-learning.md",
+    "GitHub日常学习/obsidian/stars/learning/Python-100-Days.md",
+    "karpathy/wiki/sources/来源_GitHub_Stars_Python-100-Days.md",
+    "karpathy/wiki/index.md",
     "karpathy/wiki/sources/README.md",
-    "karpathy/raw/books/non-fiction/明朝那些事儿（全集）.md",
-    "karpathy/raw/books/non-fiction/文化苦旅.md",
-    "karpathy/raw/books/fiction/龙族Ⅴ：悼亡者的归来.md",
-    "blink/Attachments/Pasted image 20260410195907.png",
-    "blink/Attachments/Pasted image 20260410195828.png",
-    "blink/Attachments/Pasted image 20260410195804.png",
-    "blink/Attachments/Pasted image 20260410195715.png",
-    "blink/Attachments/Pasted image 20260410195644.png",
-    "blink/Attachments/539.jpg",
-    "笔记同步助手/images/d6a8538541184bc55670a9cdef3e1d28_MD5.png",
-    "笔记同步助手/images/cfa0b1b2ad16695f3828b8837f991368_MD5.png",
-    "笔记同步助手/images/a363f4eee52cce122d8d1af6073bace1_MD5.png",
-    "笔记同步助手/images/557409a29ecce02921076255dcb58e00_MD5.png"
+    "karpathy/CLAUDE.md",
+    "karpathy/wiki/log.md.tmp.45440.dd6c867d4830",
+    "karpathy/wiki/index.md.tmp.45440.41bebe16c6c0",
+    "GitHub日常学习/obsidian/stars/learning/Python-100-Days.md.tmp.45440.542705b5ad7d",
+    "karpathy/wiki/log.md",
+    "karpathy/wiki/README.md",
+    "karpathy/wiki/sources/来源_GitHub_Stars_agency-agents.md",
+    "karpathy/wiki/concepts/概念_CS自学体系.md",
+    "karpathy/wiki/concepts/概念_AI第二大脑.md",
+    "karpathy/wiki/sources/来源_GitHub_Stars_project-based-learning.md",
+    "karpathy/wiki/concepts/概念_AI_Agent学习路径.md",
+    "GitHub日常学习/obsidian/stars/⭐ Karpathy 专题.md",
+    "karpathy/wiki/log.md.tmp.45440.d3d9d7c92c8e",
+    "karpathy/wiki/entities/实体_Karpathy_系列项目.md",
+    "karpathy/wiki/entities/实体_Karpathy_系列项目.md.tmp.45440.317a24c2203c",
+    "karpathy/wiki/concepts/概念_AI_Agent学习路径.md.tmp.45440.f7580a65436b",
+    "karpathy/wiki/concepts/概念_项目驱动学习.md",
+    "karpathy/wiki/sources/来源_GitHub_Stars_dive-into-llms.md",
+    "karpathy/wiki/sources/来源_GitHub_Stars_hello-agents.md",
+    "karpathy/wiki/sources/来源_GitHub_Stars_developer-roadmap.md.tmp.45440.59f93d5e0dcb",
+    "GitHub日常学习/obsidian/stars/learning/index.md.tmp.45440.c01757663bf8",
+    "GitHub日常学习/obsidian/stars/learning/hello-agents.md.tmp.45440.3791d00e2fa9",
+    "GitHub日常学习/obsidian/stars/learning/agency-agents.md.tmp.45440.0fe319913171",
+    "GitHub日常学习/obsidian/stars/learning/micrograd/puppy.jpg",
+    "GitHub日常学习/obsidian/stars/learning/micrograd/moon_mlp.png",
+    "GitHub日常学习/obsidian/stars/learning/micrograd/gout.svg",
+    "GitHub日常学习/obsidian/stars/learning/nanoGPT/assets/nanogpt.jpg",
+    "GitHub日常学习/obsidian/stars/learning/nanoGPT/assets/gpt2_124M_loss.png",
+    "GitHub日常学习/obsidian/stars/learning/hello-agents/Co-creation-projects/939147533-DatabaseAgent/img.png",
+    "GitHub日常学习/obsidian/stars/learning/hello-agents/Co-creation-projects/tino-chen-HelloClaw/frontend/src/assets/logo.svg",
+    "GitHub日常学习/obsidian/stars/learning/hello-agents/Co-creation-projects/tino-chen-HelloClaw/frontend/src/assets/lobster.svg",
+    "GitHub日常学习/obsidian/stars/learning/hello-agents/Co-creation-projects/usernamedadad-AutoFlow/data/images/demo-inspire-mode.png",
+    "GitHub日常学习/obsidian/stars/learning/hello-agents/Co-creation-projects/usernamedadad-AutoFlow/data/images/demo-create-mode.png"
   ]
 }

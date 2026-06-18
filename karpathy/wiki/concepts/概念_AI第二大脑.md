@@ -63,3 +63,6 @@ AI 驱动的第二大脑是一个**个人知识管理系统**，其中 AI 可以
 ## 关联实体
 - [[../entities/实体_Obsidian]]
 - [[../entities/实体_Claude_Code]]
+
+## 所属目录
+- [[README|concepts/]] · [[../README|wiki/]]

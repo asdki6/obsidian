@@ -61,3 +61,6 @@ updated: 2026-06-17
 ## 备注
 - 本 vault 基于 Obsidian 运行，使用 obsidian-git、dataview、templater、excalidraw 等插件
 - 已按照 Karpathy LLM Wiki 模式搭建知识库架构
+
+## 所属目录
+- [[README|entities/]] · [[../README|wiki/]]
