@@ -30,7 +30,7 @@ updated: 2026-06-18
 4. **与 Karpathy 的关联**：Karpathy 的 nanoGPT、micrograd、llm.c 正是这种哲学的极致实践
 
 ## 关联实体
-- [[../../entities/projects/实体_Karpathy_系列项目]]
+- [[../../entities/tools/实体_Karpathy_系列项目]]
 
 ## 关联概念
 - [[../../concepts/learning/概念_项目驱动学习]]
