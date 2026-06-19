@@ -59,3 +59,10 @@ type: log
 - concepts/ → concepts/ai-km/（7个）+ concepts/learning/（2个）+ concepts/plugins/（2个）
 - 全局修复所有内部 wikilink + 外部 GitHub日常学习 链接
 - 更新 index.md 所有路径
+
+## [2026-06-19] ingest | 德意志统一：俾斯麦铁血帝国
+- 新建文件夹：`karpathy/raw/articles/history/`
+- 新建原始来源：`德意志统一之路_俾斯麦_铁血帝国_1862.md`
+- 新建来源摘要：`karpathy/wiki/sources/articles/来源_德意志统一_俾斯麦铁血帝国.md`
+- 重建 index.md：35 页（19来源 + 5实体 + 11概念）
+- 受影响页面：2 新建 + 1 重建（index.md）
