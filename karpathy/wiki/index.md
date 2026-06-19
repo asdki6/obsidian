@@ -5,8 +5,8 @@ updated: 2026-06-18
 
 # Wiki 内容索引
 
-> 最后更新：2026-06-18
-> 页面总数：30
+> 最后更新：2026-06-19
+> 页面总数：35
 
 ## 来源摘要（sources/）
 
@@ -15,6 +15,11 @@ updated: 2026-06-18
 | [[sources/articles/来源_Claude_Code_源码泄露_2026]] | 512K行TypeScript源码意外公开，揭示BUDDY/KAIROS/Undercover等未发布功能 | 3 |
 | [[sources/articles/来源_Markdown_AI时代标准沟通语言_2026]] | Markdown是AI时代的"标准沟通语言"，Prompt工程最佳载体 | 3 |
 | [[sources/articles/来源_Markdown_语法速查表]] | Markdown完整语法速查表：基础、列表、链接、代码、表格、Obsidian扩展 | 3 |
+| [[sources/articles/来源_乡土中国_乡邻互助]] | 乡村突发场景中的熟人互助与朴素善意 | 0 |
+| [[sources/articles/来源_上坟的意义]] | 上坟不是迷信，而是跨越生死的探望："我很好，你放心" | 0 |
+| [[sources/articles/来源_古希腊自律训练法]] | 自律不是强迫受苦——古希腊三步训练法把困难转化为身份认同 | 0 |
+| [[sources/articles/来源_道德经七点感悟]] | 用反、守黑、自胜、去巧、处下、静胜、袭常——沉默期的力量 | 0 |
+| [[sources/articles/来源_他心问题_路人]] | 每个路人都有完整一生——从"他心问题"到孤独变慈悲 | 0 |
 | [[sources/articles/来源_Obsidian_AI_第二大腦指南_2026]] | Obsidian AI第二大腦完整指南：AI插件横评、Claude Code+MCP整合、Notion对比 | 7 |
 | [[sources/github-stars/来源_GitHub_Stars_project-based-learning]] | 项目驱动编程学习教程合集，269k ⭐ | 2 |
 | [[sources/github-stars/来源_GitHub_Stars_developer-roadmap]] | 开发者成长路线图大全，358k ⭐ | 2 |

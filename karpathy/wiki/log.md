@@ -65,3 +65,9 @@ type: log
 - 新建来源摘要：`karpathy/wiki/sources/articles/来源_Markdown_语法速查表.md`
 - 更新 `karpathy/wiki/index.md`：30 个页面条目（13 来源）
 - 受影响页面：2 新建 + 1 更新
+
+## [2026-06-19] ingest | 笔记同步助手 5 篇个人随笔
+- 新建原始来源（5个）：存入 `karpathy/raw/articles/society/`
+- 新建来源摘要（5个）：乡土中国、上坟意义、古希腊自律、道德经七点、他心问题
+- 更新 `karpathy/wiki/index.md`：35 个页面条目（18 来源）
+- 受影响页面：10 新建 + 1 更新
