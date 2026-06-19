@@ -28,12 +28,12 @@ updated: 2026-06-17
 1. **Obsidian 本地 Markdown 是 AI 理想底座**：150 万+ 活跃用户、22% 年增长、2700+ 社群插件。本地优先的纯 Markdown 文件使任何 AI 都能直接读写，不被单一供应商锁定——这在 Karpathy LLM Wiki 模式下尤为重要。
 
 2. **四大 AI 插件横评**：
-   - [[../concepts/概念_Smart_Connections|Smart Connections]]：最受欢迎的 RAG 对话插件，支持本地/云端模型
-   - [[../concepts/概念_Obsidian_Copilot|Copilot]]：多模型切换（Claude/GPT/Gemini/Ollama）
+   - [[../../concepts/plugins/概念_Smart_Connections|Smart Connections]]：最受欢迎的 RAG 对话插件，支持本地/云端模型
+   - [[../../concepts/plugins/概念_Obsidian_Copilot|Copilot]]：多模型切换（Claude/GPT/Gemini/Ollama）
    - Nova：行内 AI 编辑，不离开写作流
    - Smart Second Brain：隐私优先，全本地 RAG 管线
 
-3. **Claude Code + MCP 是最强组合**：通过 [[../concepts/概念_MCP协议|MCP 协议]] 和 `obsidian-mcp-server`，Claude Code 可将 Obsidian vault 变成活的读写工作区——阅读笔记、跨库搜索、创建/修改笔记。这就是 [[../concepts/概念_上下文工程|上下文工程]] 的实践落地。
+3. **Claude Code + MCP 是最强组合**：通过 [[../../concepts/ai-km/概念_MCP协议|MCP 协议]] 和 `obsidian-mcp-server`，Claude Code 可将 Obsidian vault 变成活的读写工作区——阅读笔记、跨库搜索、创建/修改笔记。这就是 [[../../concepts/ai-km/概念_上下文工程|上下文工程]] 的实践落地。
 
 4. **Obsidian vs Notion 结论明确**：Obsidian 在 AI 灵活性（本地 AI、MCP 支持、任何模型）、数据所有权（本地文件）、离线能力上全面领先；Notion 仅在团队协作和原生数据库方面占优。对个人知识工作者而言 Obsidian 胜出。
 

@@ -71,3 +71,8 @@ type: log
 - 新建来源摘要（5个）：乡土中国、上坟意义、古希腊自律、道德经七点、他心问题
 - 更新 `karpathy/wiki/index.md`：35 个页面条目（18 来源）
 - 受影响页面：10 新建 + 1 更新
+
+## [2026-06-19] lint | 断链修复 + 计数修正
+- 修复 5 个断链：`来源_Obsidian_AI_第二大腦指南`（4个）+ `来源_GitHub_Stars_build-your-own-x`（1个）
+- 修正 index.md 页面计数 35→34
+- 零前端错误，零命名违规，全部 frontmatter 合规
