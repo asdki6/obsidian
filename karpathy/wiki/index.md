@@ -6,7 +6,7 @@ updated: 2026-06-19
 # Wiki 内容索引
 
 > 最后更新：2026-06-19
-> 页面总数：35
+> 页面总数：40
 
 ## 来源摘要（sources/）
 
@@ -17,6 +17,9 @@ updated: 2026-06-19
 | [[sources/articles/来源_Markdown_语法速查表]] | Markdown完整语法速查表：基础、列表、代码、表格、Obsidian扩展 | 3 |
 | [[sources/articles/来源_Obsidian_AI_第二大腦指南_2026]] | Obsidian AI第二大腦完整指南：AI插件横评、Claude Code+MCP整合 | 7 |
 | [[sources/articles/来源_德意志统一_俾斯麦铁血帝国]] | 1862俾斯麦三巨头组局，普丹战争开启德意志统一序幕 | 0 |
+| [[sources/articles/来源_德意志统一_普奥战争]] | 1866普奥战争：外交孤立+铁路运兵=七周决胜，克制不攻维也纳 | 0 |
+| [[sources/articles/来源_德意志统一_普法战争]] | 1870普法：埃姆斯密电诱法国宣战，凡尔赛宫镜厅加冕 | 0 |
+| [[sources/articles/来源_德意志统一_帝国诞生与俾斯麦体系]] | 1871后俾斯麦体系：复杂外交维持20年和平，1890崩塌 | 0 |
 | [[sources/articles/来源_乡土中国_乡邻互助]] | 乡村突发场景中的熟人互助与朴素善意 | 0 |
 | [[sources/articles/来源_上坟的意义]] | 上坟不是迷信，而是跨越生死的探望 | 0 |
 | [[sources/articles/来源_古希腊自律训练法]] | 自律不是强迫受苦——古希腊三步训练法 | 0 |
@@ -41,6 +44,7 @@ updated: 2026-06-19
 | [[entities/tools/实体_Notion]] | 软件 | 云端协作平台，团队协作强但AI灵活性不如Obsidian |
 | [[entities/tools/实体_Ollama]] | 软件 | 本地运行大语言模型的开源工具 |
 | [[entities/projects/实体_Karpathy_系列项目]] | 开源项目集 | micrograd→nanoGPT→llm.c，最简代码讲透深度学习 |
+| [[entities/projects/实体_俾斯麦]] | 历史人物 | 铁血宰相，三次战争统一德意志，19世纪最伟大外交家 |
 
 ## 概念（concepts/）
 
@@ -53,6 +57,7 @@ updated: 2026-06-19
 | [[concepts/ai-km/概念_AI_Agent学习路径]] | AI/学习 | Python→LLM→Agent→多Agent的推荐学习链路 |
 | [[concepts/ai-km/概念_LLM_Wiki]] | KM | Karpathy提出：LLM主动维护持久化知识层 |
 | [[concepts/ai-km/概念_本地优先]] | 理念 | 数据存于本地设备，Markdown即标准 |
+| [[concepts/ai-km/概念_现实政治]] | 历史/策略 | 不靠意识形态而靠实力与利益计算，每一步为下一步铺路 |
 | [[concepts/learning/概念_项目驱动学习]] | 学习方法论 | 通过构建实际项目掌握技能 |
 | [[concepts/learning/概念_CS自学体系]] | CS/学习 | 学习大纲+路线图+项目实战的完整自学方法论 |
 | [[concepts/plugins/概念_Smart_Connections]] | 插件 | Obsidian最流行的RAG对话插件 |
