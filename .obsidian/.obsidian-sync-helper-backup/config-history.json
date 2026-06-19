@@ -1,6 +1,6 @@
 [
   {
-    "timestamp": "2026-06-18T15:56:25.046Z",
+    "timestamp": "2026-06-18T15:28:44.880Z",
     "version": "3.0.0",
     "settings": {
       "dateHighlightedFormat": "yyyy-MM-dd HH:mm:ss",
@@ -62,7 +62,7 @@
           "frequency": 0,
           "syncOnStart": true
         },
-        "mobile-mqjlhgfi-7lqy": {
+        "mobile-mqfyjc6w-hxs9": {
           "frequency": 0,
           "syncOnStart": false
         }
