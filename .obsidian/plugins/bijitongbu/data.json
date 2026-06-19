@@ -3,7 +3,7 @@
   "dateSavedFormat": "yyyy-MM-dd HH:mm:ss",
   "apiKey": "o56E767DP54t6nsmjGarRZIObYY4",
   "filter": "ALL",
-  "syncAt": "2026-06-18T17:25:18.227+08:00",
+  "syncAt": "2026-06-19T01:04:24.074+08:00",
   "customQuery": "in:all",
   "template": "{{{content}}}",
   "highlightOrder": "LOCATION",
@@ -50,7 +50,7 @@
   "diaryLinkPrefix": "- ",
   "diaryLinkMaxLength": 0,
   "deviceSyncCursors": {
-    "desktop-mqfyh9v2-b6h1": "2026-06-18T17:25:18.227+08:00"
+    "desktop-mqfyh9v2-b6h1": "2026-06-19T01:04:24.074+08:00"
   },
   "initialSyncCompleted": true,
   "deviceAutoSync": {
