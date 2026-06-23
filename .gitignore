@@ -11,9 +11,6 @@
 .claude/
 .claudian/sessions/
 
-# --- Learn Anything 学习数据 ---
-.learn/
-
 # --- 临时文件 / 草稿 ---
 未命名*.md
 手机测试*.md
