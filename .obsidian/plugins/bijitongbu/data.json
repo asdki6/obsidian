@@ -50,8 +50,7 @@
   "diaryLinkPrefix": "- ",
   "diaryLinkMaxLength": 0,
   "deviceSyncCursors": {
-    "desktop-mqfyh9v2-b6h1": "2026-06-18T17:25:18.227+08:00",
-    "mobile-mqfyjc6w-hxs9": "2026-06-23T01:22:30.419+08:00"
+    "desktop-mqfyh9v2-b6h1": "2026-06-23T01:22:30.419+08:00"
   },
   "initialSyncCompleted": true,
   "deviceAutoSync": {
